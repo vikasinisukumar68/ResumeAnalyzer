@@ -1,0 +1,1001 @@
+Resume,Job Description,Similarity Score
+"Software Engineer skilled in c++, java, oop, python.","Business Analyst skilled in requirements gathering, uml, data analysis, sql.",0.680347
+"Cybersecurity Analyst skilled in encryption, network security, linux, python.","Database Administrator skilled in backup, performance tuning, oracle, sql.",0.670379
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","Data Engineer skilled in spark, airflow, etl, hadoop.",0.668646
+"Machine Learning Engineer skilled in tensorflow, python, pytorch, model deployment.","Frontend Developer skilled in react, javascript, html, css.",0.557109
+"System Administrator skilled in networking, bash scripting, vmware, linux.","Full Stack Developer skilled in python, javascript, react, node.js.",0.697778
+"UX Designer skilled in prototyping, figma, user research, wireframing.","Cloud Engineer skilled in azure, aws, terraform, cloud computing.",0.68636
+"Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.","Backend Developer skilled in sql, python, node.js, rest api.",0.624255
+"AI Engineer skilled in deep learning, tensorflow, python, nlp.","Cloud Engineer skilled in cloud computing, aws, azure, terraform.",0.635364
+"DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.","Data Scientist skilled in machine learning, statistics, sql, python.",0.684668
+"Business Analyst skilled in requirements gathering, data analysis, uml, sql.","Software Engineer skilled in c++, java, python, oop.",0.563584
+"IT Support Specialist skilled in helpdesk, windows, vpn, troubleshooting.","Database Administrator skilled in backup, sql, oracle, performance tuning.",0.602087
+"UX Designer skilled in user research, figma, prototyping, wireframing.","Backend Developer skilled in python, rest api, sql, node.js.",0.590565
+"Full Stack Developer skilled in javascript, node.js, react, python.","Cybersecurity Analyst skilled in linux, python, encryption, network security.",0.605319
+"Data Engineer skilled in spark, airflow, hadoop, etl.","System Administrator skilled in networking, vmware, linux, bash scripting.",0.696722
+"Cloud Engineer skilled in cloud computing, aws, azure, terraform.","Business Analyst skilled in data analysis, uml, sql, requirements gathering.",0.665488
+"Data Engineer skilled in hadoop, airflow, spark, etl.","Frontend Developer skilled in react, javascript, css, html.",0.562183
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","DevOps Engineer skilled in kubernetes, aws, ci/cd, docker.",0.584785
+"Data Scientist skilled in python, machine learning, statistics, sql.","Product Manager skilled in data analysis, scrum, agile, roadmap planning.",0.725163
+"DevOps Engineer skilled in kubernetes, ci/cd, aws, docker.","QA Engineer skilled in python, test planning, selenium, automation testing.",0.659355
+"Database Administrator skilled in performance tuning, oracle, backup, sql.","Data Scientist skilled in python, statistics, sql, machine learning.",0.654999
+"UX Designer skilled in wireframing, figma, user research, prototyping.","Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.",0.663904
+"Backend Developer skilled in node.js, sql, rest api, python.","Software Engineer skilled in c++, python, java, oop.",0.620649
+"Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.","UX Designer skilled in prototyping, user research, figma, wireframing.",0.692206
+"Cybersecurity Analyst skilled in linux, encryption, network security, python.","Mobile App Developer skilled in android, swift, kotlin, react native.",0.613955
+"Cloud Engineer skilled in aws, terraform, cloud computing, azure.","Frontend Developer skilled in html, javascript, css, react.",0.57373
+"UX Designer skilled in prototyping, user research, figma, wireframing.","Machine Learning Engineer skilled in python, pytorch, model deployment, tensorflow.",0.650432
+"Full Stack Developer skilled in react, node.js, python, javascript.","AI Engineer skilled in tensorflow, nlp, deep learning, python.",0.586414
+"QA Engineer skilled in python, automation testing, test planning, selenium.","Cybersecurity Analyst skilled in network security, encryption, linux, python.",0.603922
+"Frontend Developer skilled in react, css, html, javascript.","Product Manager skilled in agile, roadmap planning, data analysis, scrum.",0.657998
+"UX Designer skilled in figma, user research, prototyping, wireframing.","Machine Learning Engineer skilled in tensorflow, python, model deployment, pytorch.",0.551933
+"Backend Developer skilled in sql, python, node.js, rest api.","Full Stack Developer skilled in python, javascript, node.js, react.",0.838184
+"AI Engineer skilled in python, nlp, deep learning, tensorflow.","Network Engineer skilled in firewalls, routing, switching, tcp/ip.",0.605452
+"UX Designer skilled in user research, wireframing, figma, prototyping.","UX Designer skilled in prototyping, figma, user research, wireframing.",0.842846
+"UX Designer skilled in user research, prototyping, wireframing, figma.","Cloud Engineer skilled in cloud computing, terraform, azure, aws.",0.645632
+"QA Engineer skilled in python, selenium, automation testing, test planning.","IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.",0.65098
+"Cloud Engineer skilled in cloud computing, azure, aws, terraform.","Full Stack Developer skilled in python, javascript, node.js, react.",0.589751
+"DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.","Backend Developer skilled in sql, rest api, python, node.js.",0.685619
+"DevOps Engineer skilled in aws, kubernetes, ci/cd, docker.","Database Administrator skilled in backup, performance tuning, oracle, sql.",0.579542
+"Backend Developer skilled in node.js, sql, rest api, python.","Data Scientist skilled in sql, machine learning, python, statistics.",0.714445
+"Full Stack Developer skilled in javascript, python, node.js, react.","Software Engineer skilled in java, oop, python, c++.",0.703939
+"Mobile App Developer skilled in react native, android, kotlin, swift.","Machine Learning Engineer skilled in model deployment, pytorch, python, tensorflow.",0.629393
+"IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.","Frontend Developer skilled in javascript, css, react, html.",0.657424
+"Software Engineer skilled in java, python, oop, c++.","Cybersecurity Analyst skilled in network security, python, linux, encryption.",0.666136
+"Full Stack Developer skilled in react, python, node.js, javascript.","Product Manager skilled in scrum, roadmap planning, data analysis, agile.",0.555059
+"Network Engineer skilled in tcp/ip, switching, routing, firewalls.","IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.",0.570527
+"DevOps Engineer skilled in docker, aws, kubernetes, ci/cd.","Cloud Engineer skilled in cloud computing, terraform, aws, azure.",0.706998
+"Full Stack Developer skilled in python, react, node.js, javascript.","Data Engineer skilled in spark, etl, hadoop, airflow.",0.625419
+"Full Stack Developer skilled in javascript, react, python, node.js.","Mobile App Developer skilled in android, swift, react native, kotlin.",0.710267
+"QA Engineer skilled in selenium, test planning, automation testing, python.","Product Manager skilled in roadmap planning, agile, scrum, data analysis.",0.61586
+"Network Engineer skilled in routing, tcp/ip, switching, firewalls.","System Administrator skilled in bash scripting, networking, vmware, linux.",0.640357
+"Frontend Developer skilled in react, javascript, html, css.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.64993
+"Full Stack Developer skilled in react, javascript, python, node.js.","Data Engineer skilled in etl, spark, hadoop, airflow.",0.563223
+"Cloud Engineer skilled in azure, terraform, aws, cloud computing.","Data Engineer skilled in airflow, spark, hadoop, etl.",0.728859
+"Cybersecurity Analyst skilled in python, network security, linux, encryption.","UX Designer skilled in figma, prototyping, user research, wireframing.",0.576058
+"Mobile App Developer skilled in android, swift, react native, kotlin.","UX Designer skilled in figma, prototyping, user research, wireframing.",0.637556
+"Business Analyst skilled in data analysis, requirements gathering, uml, sql.","Frontend Developer skilled in javascript, css, react, html.",0.649596
+"Cybersecurity Analyst skilled in network security, linux, encryption, python.","DevOps Engineer skilled in docker, aws, ci/cd, kubernetes.",0.693852
+"AI Engineer skilled in nlp, deep learning, tensorflow, python.","QA Engineer skilled in python, automation testing, test planning, selenium.",0.695489
+"Data Scientist skilled in python, sql, statistics, machine learning.","IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.",0.631772
+"QA Engineer skilled in selenium, test planning, automation testing, python.","DevOps Engineer skilled in kubernetes, ci/cd, aws, docker.",0.712594
+"Backend Developer skilled in sql, python, rest api, node.js.","Software Engineer skilled in java, c++, python, oop.",0.648339
+"Product Manager skilled in data analysis, roadmap planning, scrum, agile.","Full Stack Developer skilled in python, javascript, react, node.js.",0.590993
+"Data Scientist skilled in python, machine learning, sql, statistics.","Cybersecurity Analyst skilled in python, linux, network security, encryption.",0.705037
+"UX Designer skilled in figma, wireframing, prototyping, user research.","Data Scientist skilled in machine learning, python, statistics, sql.",0.616811
+"IT Support Specialist skilled in troubleshooting, helpdesk, vpn, windows.","Data Engineer skilled in hadoop, etl, spark, airflow.",0.584787
+"Data Scientist skilled in sql, python, machine learning, statistics.","Mobile App Developer skilled in kotlin, swift, android, react native.",0.603511
+"UX Designer skilled in wireframing, prototyping, user research, figma.","AI Engineer skilled in deep learning, nlp, tensorflow, python.",0.606229
+"AI Engineer skilled in deep learning, python, nlp, tensorflow.","Full Stack Developer skilled in javascript, node.js, react, python.",0.618067
+"Database Administrator skilled in performance tuning, sql, oracle, backup.","UX Designer skilled in prototyping, figma, wireframing, user research.",0.671397
+"Frontend Developer skilled in html, react, javascript, css.","Machine Learning Engineer skilled in model deployment, tensorflow, python, pytorch.",0.694539
+"DevOps Engineer skilled in ci/cd, aws, docker, kubernetes.","Data Scientist skilled in sql, statistics, python, machine learning.",0.689946
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","DevOps Engineer skilled in aws, ci/cd, docker, kubernetes.",0.653243
+"Backend Developer skilled in sql, node.js, rest api, python.","Software Engineer skilled in oop, java, python, c++.",0.661684
+"QA Engineer skilled in automation testing, test planning, selenium, python.","Frontend Developer skilled in javascript, react, html, css.",0.573256
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","System Administrator skilled in linux, bash scripting, networking, vmware.",0.651853
+"AI Engineer skilled in python, nlp, deep learning, tensorflow.","Frontend Developer skilled in javascript, html, css, react.",0.596091
+"UX Designer skilled in prototyping, user research, figma, wireframing.","IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.",0.607606
+"Database Administrator skilled in oracle, sql, backup, performance tuning.","Backend Developer skilled in node.js, python, rest api, sql.",0.664398
+"Frontend Developer skilled in javascript, css, html, react.","IT Support Specialist skilled in troubleshooting, windows, helpdesk, vpn.",0.572733
+"QA Engineer skilled in test planning, python, automation testing, selenium.","UX Designer skilled in user research, prototyping, wireframing, figma.",0.558719
+"DevOps Engineer skilled in aws, ci/cd, docker, kubernetes.","Mobile App Developer skilled in swift, android, react native, kotlin.",0.652729
+"Network Engineer skilled in routing, firewalls, tcp/ip, switching.","Data Engineer skilled in spark, hadoop, airflow, etl.",0.684034
+"Software Engineer skilled in oop, java, c++, python.","IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.",0.591243
+"Full Stack Developer skilled in react, javascript, python, node.js.","QA Engineer skilled in python, test planning, selenium, automation testing.",0.715942
+"Cloud Engineer skilled in cloud computing, terraform, aws, azure.","Cloud Engineer skilled in cloud computing, azure, aws, terraform.",0.865265
+"Full Stack Developer skilled in node.js, react, python, javascript.","Business Analyst skilled in uml, requirements gathering, data analysis, sql.",0.575768
+"DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.","QA Engineer skilled in automation testing, selenium, test planning, python.",0.695735
+"Software Engineer skilled in c++, python, java, oop.","Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.",0.665245
+"Data Scientist skilled in statistics, python, machine learning, sql.","UX Designer skilled in user research, prototyping, figma, wireframing.",0.60858
+"AI Engineer skilled in python, tensorflow, deep learning, nlp.","Cybersecurity Analyst skilled in linux, network security, python, encryption.",0.609679
+"Mobile App Developer skilled in android, kotlin, react native, swift.","AI Engineer skilled in python, nlp, tensorflow, deep learning.",0.652491
+"Business Analyst skilled in data analysis, requirements gathering, uml, sql.","Software Engineer skilled in java, python, oop, c++.",0.641342
+"AI Engineer skilled in nlp, python, tensorflow, deep learning.","Database Administrator skilled in performance tuning, oracle, sql, backup.",0.693748
+"Backend Developer skilled in rest api, sql, node.js, python.","QA Engineer skilled in selenium, automation testing, test planning, python.",0.676555
+"Mobile App Developer skilled in swift, android, react native, kotlin.","Backend Developer skilled in node.js, sql, rest api, python.",0.623608
+"System Administrator skilled in networking, bash scripting, linux, vmware.","System Administrator skilled in vmware, bash scripting, networking, linux.",0.817393
+"Software Engineer skilled in python, c++, java, oop.","QA Engineer skilled in automation testing, selenium, python, test planning.",0.669887
+"Data Scientist skilled in sql, python, machine learning, statistics.","Frontend Developer skilled in javascript, css, html, react.",0.567511
+"Business Analyst skilled in requirements gathering, data analysis, sql, uml.","Data Engineer skilled in spark, etl, hadoop, airflow.",0.721778
+"Full Stack Developer skilled in node.js, javascript, react, python.","Cybersecurity Analyst skilled in encryption, network security, python, linux.",0.579112
+"Data Scientist skilled in machine learning, statistics, sql, python.","Backend Developer skilled in rest api, node.js, python, sql.",0.594122
+"Data Engineer skilled in hadoop, airflow, spark, etl.","System Administrator skilled in vmware, linux, networking, bash scripting.",0.696555
+"QA Engineer skilled in automation testing, selenium, python, test planning.","UX Designer skilled in figma, prototyping, user research, wireframing.",0.682909
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","Mobile App Developer skilled in kotlin, react native, swift, android.",0.584556
+"Machine Learning Engineer skilled in model deployment, tensorflow, python, pytorch.","QA Engineer skilled in selenium, python, automation testing, test planning.",0.795008
+"DevOps Engineer skilled in aws, docker, ci/cd, kubernetes.","Cybersecurity Analyst skilled in python, linux, encryption, network security.",0.604122
+"Backend Developer skilled in rest api, node.js, sql, python.","DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.",0.604347
+"Full Stack Developer skilled in react, python, javascript, node.js.","Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.",0.619173
+"Backend Developer skilled in sql, python, rest api, node.js.","Product Manager skilled in data analysis, scrum, agile, roadmap planning.",0.676829
+"Full Stack Developer skilled in react, python, javascript, node.js.","Frontend Developer skilled in javascript, css, html, react.",0.703901
+"Cloud Engineer skilled in azure, aws, terraform, cloud computing.","System Administrator skilled in vmware, bash scripting, linux, networking.",0.675118
+"IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.","System Administrator skilled in networking, linux, bash scripting, vmware.",0.581607
+"Data Scientist skilled in python, machine learning, statistics, sql.","Business Analyst skilled in uml, sql, data analysis, requirements gathering.",0.602427
+"IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.","Backend Developer skilled in sql, python, rest api, node.js.",0.603648
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","Network Engineer skilled in switching, tcp/ip, firewalls, routing.",0.696462
+"AI Engineer skilled in python, nlp, tensorflow, deep learning.","Full Stack Developer skilled in python, javascript, react, node.js.",0.679563
+"Database Administrator skilled in oracle, sql, performance tuning, backup.","Machine Learning Engineer skilled in model deployment, tensorflow, python, pytorch.",0.61539
+"Full Stack Developer skilled in react, python, javascript, node.js.","QA Engineer skilled in selenium, test planning, automation testing, python.",0.696719
+"IT Support Specialist skilled in troubleshooting, vpn, windows, helpdesk.","Database Administrator skilled in backup, performance tuning, sql, oracle.",0.58897
+"Network Engineer skilled in firewalls, routing, tcp/ip, switching.","Mobile App Developer skilled in android, kotlin, react native, swift.",0.696557
+"Software Engineer skilled in java, python, c++, oop.","Backend Developer skilled in rest api, python, node.js, sql.",0.626779
+"Network Engineer skilled in firewalls, routing, tcp/ip, switching.","Data Scientist skilled in machine learning, sql, python, statistics.",0.657375
+"Frontend Developer skilled in javascript, html, react, css.","Network Engineer skilled in firewalls, tcp/ip, switching, routing.",0.625713
+"AI Engineer skilled in nlp, deep learning, tensorflow, python.","DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.",0.730479
+"DevOps Engineer skilled in ci/cd, kubernetes, aws, docker.","Database Administrator skilled in performance tuning, backup, sql, oracle.",0.597999
+"Database Administrator skilled in sql, backup, oracle, performance tuning.","System Administrator skilled in vmware, networking, linux, bash scripting.",0.618173
+"Data Scientist skilled in machine learning, python, sql, statistics.","Data Scientist skilled in sql, python, machine learning, statistics.",1.016867
+"Network Engineer skilled in routing, firewalls, switching, tcp/ip.","Network Engineer skilled in switching, firewalls, routing, tcp/ip.",0.875346
+"AI Engineer skilled in tensorflow, deep learning, python, nlp.","QA Engineer skilled in automation testing, python, test planning, selenium.",0.677813
+"QA Engineer skilled in selenium, python, test planning, automation testing.","Product Manager skilled in data analysis, scrum, agile, roadmap planning.",0.695934
+"Database Administrator skilled in sql, oracle, performance tuning, backup.","Product Manager skilled in data analysis, agile, roadmap planning, scrum.",0.682279
+"Network Engineer skilled in firewalls, routing, tcp/ip, switching.","QA Engineer skilled in python, automation testing, selenium, test planning.",0.648445
+"Data Engineer skilled in spark, airflow, etl, hadoop.","AI Engineer skilled in tensorflow, python, nlp, deep learning.",0.626605
+"Mobile App Developer skilled in react native, swift, android, kotlin.","Mobile App Developer skilled in android, react native, swift, kotlin.",1.057005
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","Data Scientist skilled in machine learning, sql, statistics, python.",0.645656
+"Network Engineer skilled in switching, firewalls, tcp/ip, routing.","Software Engineer skilled in python, oop, java, c++.",0.640395
+"Business Analyst skilled in sql, uml, requirements gathering, data analysis.","Full Stack Developer skilled in node.js, javascript, react, python.",0.629152
+"Cloud Engineer skilled in azure, cloud computing, terraform, aws.","QA Engineer skilled in test planning, python, automation testing, selenium.",0.702407
+"AI Engineer skilled in deep learning, tensorflow, python, nlp.","Machine Learning Engineer skilled in tensorflow, model deployment, python, pytorch.",0.81538
+"Network Engineer skilled in firewalls, routing, tcp/ip, switching.","Software Engineer skilled in python, oop, c++, java.",0.680168
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","Backend Developer skilled in node.js, python, sql, rest api.",0.697315
+"UX Designer skilled in wireframing, figma, prototyping, user research.","Business Analyst skilled in sql, requirements gathering, uml, data analysis.",0.624555
+"Database Administrator skilled in performance tuning, backup, oracle, sql.","Data Engineer skilled in hadoop, etl, airflow, spark.",0.602784
+"Network Engineer skilled in switching, tcp/ip, firewalls, routing.","Product Manager skilled in scrum, roadmap planning, agile, data analysis.",0.624672
+"Full Stack Developer skilled in node.js, python, react, javascript.","System Administrator skilled in networking, vmware, bash scripting, linux.",0.621569
+"Cybersecurity Analyst skilled in encryption, python, linux, network security.","Backend Developer skilled in rest api, node.js, python, sql.",0.611851
+"Full Stack Developer skilled in react, python, node.js, javascript.","Database Administrator skilled in performance tuning, sql, oracle, backup.",0.571455
+"System Administrator skilled in vmware, bash scripting, linux, networking.","Full Stack Developer skilled in python, javascript, react, node.js.",0.59187
+"Mobile App Developer skilled in kotlin, android, react native, swift.","Database Administrator skilled in oracle, performance tuning, backup, sql.",0.555592
+"Software Engineer skilled in python, c++, java, oop.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.677339
+"System Administrator skilled in linux, vmware, networking, bash scripting.","Cybersecurity Analyst skilled in encryption, linux, network security, python.",0.686708
+"AI Engineer skilled in tensorflow, deep learning, python, nlp.","DevOps Engineer skilled in aws, docker, kubernetes, ci/cd.",0.69358
+"Data Scientist skilled in python, sql, machine learning, statistics.","Backend Developer skilled in rest api, node.js, sql, python.",0.692092
+"Frontend Developer skilled in javascript, css, html, react.","AI Engineer skilled in tensorflow, python, deep learning, nlp.",0.66626
+"Network Engineer skilled in routing, switching, firewalls, tcp/ip.","IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.",0.610138
+"Network Engineer skilled in switching, firewalls, routing, tcp/ip.","Frontend Developer skilled in css, javascript, html, react.",0.556701
+"Full Stack Developer skilled in react, node.js, python, javascript.","Database Administrator skilled in oracle, performance tuning, sql, backup.",0.677522
+"Full Stack Developer skilled in javascript, python, node.js, react.","QA Engineer skilled in test planning, selenium, automation testing, python.",0.62444
+"Business Analyst skilled in data analysis, requirements gathering, uml, sql.","Cybersecurity Analyst skilled in python, network security, encryption, linux.",0.740734
+"UX Designer skilled in user research, figma, wireframing, prototyping.","Data Engineer skilled in etl, airflow, spark, hadoop.",0.699078
+"Data Scientist skilled in python, machine learning, statistics, sql.","DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.",0.57227
+"Data Engineer skilled in etl, hadoop, airflow, spark.","Product Manager skilled in agile, scrum, roadmap planning, data analysis.",0.723207
+"QA Engineer skilled in test planning, selenium, python, automation testing.","System Administrator skilled in networking, linux, bash scripting, vmware.",0.660772
+"AI Engineer skilled in python, deep learning, tensorflow, nlp.","Mobile App Developer skilled in android, swift, kotlin, react native.",0.692878
+"Software Engineer skilled in c++, java, python, oop.","Database Administrator skilled in performance tuning, sql, oracle, backup.",0.657251
+"Mobile App Developer skilled in kotlin, android, react native, swift.","Backend Developer skilled in python, rest api, node.js, sql.",0.608448
+"System Administrator skilled in networking, bash scripting, linux, vmware.","UX Designer skilled in user research, prototyping, wireframing, figma.",0.647195
+"Software Engineer skilled in python, oop, java, c++.","Backend Developer skilled in python, rest api, node.js, sql.",0.689545
+"Frontend Developer skilled in react, html, javascript, css.","Business Analyst skilled in data analysis, uml, sql, requirements gathering.",0.597194
+"IT Support Specialist skilled in troubleshooting, helpdesk, vpn, windows.","Machine Learning Engineer skilled in pytorch, tensorflow, python, model deployment.",0.670041
+"Business Analyst skilled in uml, data analysis, requirements gathering, sql.","Cloud Engineer skilled in cloud computing, azure, terraform, aws.",0.680167
+"Software Engineer skilled in oop, python, c++, java.","DevOps Engineer skilled in aws, docker, ci/cd, kubernetes.",0.605814
+"Database Administrator skilled in oracle, sql, performance tuning, backup.","DevOps Engineer skilled in aws, docker, ci/cd, kubernetes.",0.607495
+"UX Designer skilled in wireframing, figma, user research, prototyping.","Data Engineer skilled in airflow, etl, spark, hadoop.",0.64444
+"Business Analyst skilled in uml, requirements gathering, sql, data analysis.","Cloud Engineer skilled in azure, aws, terraform, cloud computing.",0.558346
+"QA Engineer skilled in python, automation testing, selenium, test planning.","QA Engineer skilled in automation testing, python, test planning, selenium.",0.904235
+"AI Engineer skilled in nlp, python, tensorflow, deep learning.","QA Engineer skilled in automation testing, python, test planning, selenium.",0.759902
+"Business Analyst skilled in requirements gathering, data analysis, sql, uml.","Database Administrator skilled in backup, performance tuning, oracle, sql.",0.645453
+"Cloud Engineer skilled in aws, azure, terraform, cloud computing.","Data Engineer skilled in spark, hadoop, etl, airflow.",0.722867
+"Data Scientist skilled in statistics, python, machine learning, sql.","Cybersecurity Analyst skilled in python, network security, encryption, linux.",0.640282
+"Backend Developer skilled in sql, node.js, rest api, python.","Full Stack Developer skilled in javascript, react, node.js, python.",0.788963
+"Mobile App Developer skilled in swift, react native, android, kotlin.","UX Designer skilled in prototyping, user research, figma, wireframing.",0.587649
+"IT Support Specialist skilled in troubleshooting, vpn, windows, helpdesk.","System Administrator skilled in networking, bash scripting, vmware, linux.",0.618677
+"IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.","Network Engineer skilled in firewalls, tcp/ip, switching, routing.",0.571283
+"Frontend Developer skilled in css, html, javascript, react.","Business Analyst skilled in requirements gathering, data analysis, uml, sql.",0.620077
+"Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.","Network Engineer skilled in switching, firewalls, tcp/ip, routing.",0.660404
+"QA Engineer skilled in test planning, automation testing, python, selenium.","Data Scientist skilled in machine learning, python, statistics, sql.",0.629077
+"Business Analyst skilled in data analysis, uml, sql, requirements gathering.","IT Support Specialist skilled in windows, vpn, helpdesk, troubleshooting.",0.627966
+"Database Administrator skilled in performance tuning, backup, sql, oracle.","Full Stack Developer skilled in react, javascript, python, node.js.",0.666547
+"Machine Learning Engineer skilled in python, pytorch, tensorflow, model deployment.","UX Designer skilled in figma, prototyping, user research, wireframing.",0.59173
+"Data Engineer skilled in airflow, etl, spark, hadoop.","Data Scientist skilled in python, machine learning, statistics, sql.",0.71067
+"Mobile App Developer skilled in react native, android, kotlin, swift.","Machine Learning Engineer skilled in pytorch, tensorflow, python, model deployment.",0.679844
+"Product Manager skilled in scrum, data analysis, roadmap planning, agile.","AI Engineer skilled in nlp, tensorflow, deep learning, python.",0.56749
+"Product Manager skilled in agile, roadmap planning, scrum, data analysis.","Product Manager skilled in roadmap planning, data analysis, scrum, agile.",0.958284
+"QA Engineer skilled in test planning, python, selenium, automation testing.","Database Administrator skilled in oracle, sql, performance tuning, backup.",0.588233
+"QA Engineer skilled in test planning, selenium, python, automation testing.","IT Support Specialist skilled in helpdesk, windows, vpn, troubleshooting.",0.692017
+"QA Engineer skilled in python, automation testing, selenium, test planning.","Backend Developer skilled in rest api, sql, node.js, python.",0.558242
+"Network Engineer skilled in switching, firewalls, routing, tcp/ip.","System Administrator skilled in networking, vmware, bash scripting, linux.",0.581025
+"AI Engineer skilled in nlp, tensorflow, deep learning, python.","Machine Learning Engineer skilled in model deployment, python, tensorflow, pytorch.",0.657892
+"Mobile App Developer skilled in react native, kotlin, swift, android.","UX Designer skilled in wireframing, user research, prototyping, figma.",0.68376
+"System Administrator skilled in networking, bash scripting, vmware, linux.","Data Engineer skilled in spark, hadoop, etl, airflow.",0.603277
+"AI Engineer skilled in deep learning, python, tensorflow, nlp.","System Administrator skilled in vmware, networking, bash scripting, linux.",0.551328
+"Data Engineer skilled in airflow, spark, hadoop, etl.","QA Engineer skilled in test planning, automation testing, python, selenium.",0.68059
+"Data Scientist skilled in statistics, machine learning, python, sql.","Backend Developer skilled in sql, python, rest api, node.js.",0.621852
+"Backend Developer skilled in sql, rest api, node.js, python.","Cloud Engineer skilled in cloud computing, azure, terraform, aws.",0.68093
+"Cloud Engineer skilled in azure, aws, terraform, cloud computing.","DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.",0.784283
+"System Administrator skilled in networking, vmware, linux, bash scripting.","Data Scientist skilled in python, sql, statistics, machine learning.",0.617624
+"Frontend Developer skilled in javascript, html, react, css.","Product Manager skilled in roadmap planning, agile, data analysis, scrum.",0.644011
+"AI Engineer skilled in python, nlp, tensorflow, deep learning.","Cloud Engineer skilled in cloud computing, terraform, aws, azure.",0.647572
+"Frontend Developer skilled in react, html, javascript, css.","Full Stack Developer skilled in python, javascript, node.js, react.",0.677035
+"IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.","Business Analyst skilled in requirements gathering, data analysis, uml, sql.",0.606197
+"Backend Developer skilled in node.js, rest api, python, sql.","QA Engineer skilled in python, automation testing, selenium, test planning.",0.637369
+"Network Engineer skilled in firewalls, tcp/ip, switching, routing.","Cloud Engineer skilled in aws, cloud computing, terraform, azure.",0.708961
+"DevOps Engineer skilled in kubernetes, ci/cd, docker, aws.","Backend Developer skilled in rest api, python, sql, node.js.",0.690962
+"Frontend Developer skilled in css, html, javascript, react.","System Administrator skilled in bash scripting, networking, vmware, linux.",0.652135
+"Backend Developer skilled in python, sql, node.js, rest api.","Business Analyst skilled in uml, data analysis, requirements gathering, sql.",0.603835
+"Machine Learning Engineer skilled in python, tensorflow, model deployment, pytorch.","Cloud Engineer skilled in terraform, aws, azure, cloud computing.",0.688262
+"Full Stack Developer skilled in react, javascript, python, node.js.","Backend Developer skilled in python, node.js, rest api, sql.",0.732134
+"Cybersecurity Analyst skilled in encryption, python, network security, linux.","Software Engineer skilled in oop, c++, java, python.",0.6954
+"Business Analyst skilled in data analysis, sql, uml, requirements gathering.","Cloud Engineer skilled in terraform, aws, cloud computing, azure.",0.560387
+"Data Engineer skilled in etl, hadoop, spark, airflow.","Software Engineer skilled in oop, c++, java, python.",0.742717
+"Database Administrator skilled in performance tuning, sql, backup, oracle.","Business Analyst skilled in uml, data analysis, requirements gathering, sql.",0.683003
+"Software Engineer skilled in python, java, oop, c++.","UX Designer skilled in prototyping, figma, wireframing, user research.",0.626229
+"Data Scientist skilled in python, statistics, machine learning, sql.","IT Support Specialist skilled in vpn, helpdesk, windows, troubleshooting.",0.638437
+"Full Stack Developer skilled in react, javascript, python, node.js.","Software Engineer skilled in java, c++, oop, python.",0.586548
+"UX Designer skilled in prototyping, wireframing, user research, figma.","Data Scientist skilled in machine learning, python, sql, statistics.",0.634238
+"UX Designer skilled in prototyping, wireframing, user research, figma.","Network Engineer skilled in switching, routing, tcp/ip, firewalls.",0.65372
+"UX Designer skilled in wireframing, prototyping, user research, figma.","DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.",0.620559
+"Data Engineer skilled in spark, airflow, etl, hadoop.","Cloud Engineer skilled in cloud computing, aws, terraform, azure.",0.650981
+"QA Engineer skilled in test planning, automation testing, selenium, python.","QA Engineer skilled in python, automation testing, test planning, selenium.",0.89473
+"Data Engineer skilled in spark, hadoop, etl, airflow.","Network Engineer skilled in tcp/ip, routing, switching, firewalls.",0.718296
+"Network Engineer skilled in switching, routing, firewalls, tcp/ip.","Product Manager skilled in data analysis, scrum, agile, roadmap planning.",0.567632
+"Business Analyst skilled in requirements gathering, data analysis, uml, sql.","Data Scientist skilled in python, machine learning, sql, statistics.",0.655214
+"Data Engineer skilled in airflow, etl, hadoop, spark.","Cloud Engineer skilled in terraform, azure, aws, cloud computing.",0.632617
+"QA Engineer skilled in python, automation testing, selenium, test planning.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.606219
+"AI Engineer skilled in tensorflow, deep learning, python, nlp.","Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.",0.731416
+"Data Engineer skilled in airflow, spark, etl, hadoop.","Mobile App Developer skilled in react native, kotlin, android, swift.",0.635141
+"Software Engineer skilled in oop, python, java, c++.","Frontend Developer skilled in react, css, html, javascript.",0.553339
+"Frontend Developer skilled in javascript, react, css, html.","AI Engineer skilled in tensorflow, deep learning, nlp, python.",0.560335
+"System Administrator skilled in bash scripting, linux, networking, vmware.","System Administrator skilled in bash scripting, linux, vmware, networking.",0.826211
+"Full Stack Developer skilled in node.js, react, javascript, python.","Software Engineer skilled in c++, python, java, oop.",0.568623
+"Product Manager skilled in roadmap planning, agile, data analysis, scrum.","Database Administrator skilled in backup, performance tuning, oracle, sql.",0.551422
+"Frontend Developer skilled in javascript, html, react, css.","Data Engineer skilled in spark, airflow, hadoop, etl.",0.612414
+"Software Engineer skilled in c++, java, oop, python.","Full Stack Developer skilled in javascript, node.js, python, react.",0.629893
+"Data Scientist skilled in sql, python, statistics, machine learning.","Data Scientist skilled in sql, python, machine learning, statistics.",0.847704
+"AI Engineer skilled in nlp, python, tensorflow, deep learning.","DevOps Engineer skilled in ci/cd, kubernetes, docker, aws.",0.73291
+"Software Engineer skilled in java, python, c++, oop.","Data Scientist skilled in python, statistics, sql, machine learning.",0.683773
+"AI Engineer skilled in deep learning, tensorflow, python, nlp.","IT Support Specialist skilled in troubleshooting, helpdesk, vpn, windows.",0.67216
+"AI Engineer skilled in nlp, python, tensorflow, deep learning.","Full Stack Developer skilled in node.js, javascript, python, react.",0.632209
+"Backend Developer skilled in rest api, python, node.js, sql.","Software Engineer skilled in python, c++, oop, java.",0.712352
+"Business Analyst skilled in uml, data analysis, sql, requirements gathering.","Data Engineer skilled in hadoop, etl, spark, airflow.",0.720733
+"Frontend Developer skilled in react, html, javascript, css.","Business Analyst skilled in uml, sql, requirements gathering, data analysis.",0.550618
+"Data Scientist skilled in python, machine learning, sql, statistics.","Business Analyst skilled in data analysis, sql, uml, requirements gathering.",0.715562
+"QA Engineer skilled in automation testing, test planning, python, selenium.","DevOps Engineer skilled in docker, kubernetes, aws, ci/cd.",0.652917
+"Data Scientist skilled in statistics, sql, machine learning, python.","Cloud Engineer skilled in cloud computing, terraform, azure, aws.",0.697916
+"UX Designer skilled in prototyping, user research, wireframing, figma.","Network Engineer skilled in switching, firewalls, tcp/ip, routing.",0.553248
+"Data Engineer skilled in hadoop, airflow, etl, spark.","QA Engineer skilled in automation testing, test planning, selenium, python.",0.732528
+"Software Engineer skilled in java, c++, python, oop.","Backend Developer skilled in rest api, python, sql, node.js.",0.706747
+"Machine Learning Engineer skilled in python, tensorflow, model deployment, pytorch.","Cloud Engineer skilled in terraform, aws, azure, cloud computing.",0.729295
+"Cloud Engineer skilled in aws, cloud computing, azure, terraform.","Cloud Engineer skilled in cloud computing, aws, azure, terraform.",0.910716
+"Mobile App Developer skilled in android, kotlin, react native, swift.","IT Support Specialist skilled in helpdesk, troubleshooting, vpn, windows.",0.637406
+"Cloud Engineer skilled in terraform, cloud computing, aws, azure.","Data Scientist skilled in statistics, machine learning, python, sql.",0.655815
+"AI Engineer skilled in deep learning, nlp, tensorflow, python.","Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.",0.733559
+"UX Designer skilled in wireframing, user research, figma, prototyping.","Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.",0.578145
+"Frontend Developer skilled in javascript, html, react, css.","Cloud Engineer skilled in cloud computing, azure, terraform, aws.",0.57905
+"Cloud Engineer skilled in azure, cloud computing, terraform, aws.","Cybersecurity Analyst skilled in network security, encryption, linux, python.",0.632712
+"Backend Developer skilled in python, sql, rest api, node.js.","IT Support Specialist skilled in troubleshooting, vpn, helpdesk, windows.",0.639595
+"Data Engineer skilled in etl, hadoop, spark, airflow.","Data Engineer skilled in hadoop, spark, airflow, etl.",0.778189
+"Backend Developer skilled in python, sql, rest api, node.js.","QA Engineer skilled in test planning, selenium, python, automation testing.",0.66301
+"Mobile App Developer skilled in swift, kotlin, android, react native.","Software Engineer skilled in python, oop, c++, java.",0.684197
+"Frontend Developer skilled in css, javascript, react, html.","Network Engineer skilled in switching, firewalls, tcp/ip, routing.",0.67901
+"Backend Developer skilled in rest api, node.js, python, sql.","Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.",0.699569
+"Cybersecurity Analyst skilled in python, encryption, linux, network security.","Machine Learning Engineer skilled in pytorch, python, tensorflow, model deployment.",0.630619
+"Full Stack Developer skilled in javascript, react, python, node.js.","Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.",0.564392
+"AI Engineer skilled in python, nlp, deep learning, tensorflow.","Software Engineer skilled in java, python, c++, oop.",0.753367
+"Data Scientist skilled in sql, statistics, machine learning, python.","UX Designer skilled in wireframing, prototyping, user research, figma.",0.605999
+"Cybersecurity Analyst skilled in linux, encryption, python, network security.","Backend Developer skilled in rest api, node.js, sql, python.",0.667601
+"UX Designer skilled in wireframing, user research, prototyping, figma.","Data Scientist skilled in statistics, machine learning, sql, python.",0.624348
+"Cloud Engineer skilled in aws, terraform, azure, cloud computing.","Cloud Engineer skilled in cloud computing, aws, terraform, azure.",0.833906
+"Cybersecurity Analyst skilled in linux, network security, encryption, python.","Data Scientist skilled in machine learning, statistics, python, sql.",0.615289
+"Data Engineer skilled in spark, airflow, etl, hadoop.","Database Administrator skilled in oracle, backup, performance tuning, sql.",0.582657
+"Business Analyst skilled in requirements gathering, uml, data analysis, sql.","DevOps Engineer skilled in docker, kubernetes, aws, ci/cd.",0.559381
+"UX Designer skilled in user research, figma, wireframing, prototyping.","AI Engineer skilled in nlp, deep learning, python, tensorflow.",0.639314
+"Cloud Engineer skilled in aws, cloud computing, azure, terraform.","Product Manager skilled in data analysis, roadmap planning, agile, scrum.",0.678793
+"System Administrator skilled in vmware, networking, linux, bash scripting.","Machine Learning Engineer skilled in tensorflow, pytorch, python, model deployment.",0.639861
+"System Administrator skilled in bash scripting, networking, vmware, linux.","Mobile App Developer skilled in react native, android, kotlin, swift.",0.590236
+"Product Manager skilled in scrum, agile, data analysis, roadmap planning.","Data Scientist skilled in machine learning, python, sql, statistics.",0.658672
+"Full Stack Developer skilled in python, javascript, react, node.js.","Backend Developer skilled in sql, node.js, rest api, python.",0.686919
+"AI Engineer skilled in nlp, python, deep learning, tensorflow.","UX Designer skilled in prototyping, wireframing, figma, user research.",0.674411
+"Data Scientist skilled in python, statistics, machine learning, sql.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.570466
+"Data Engineer skilled in hadoop, spark, airflow, etl.","IT Support Specialist skilled in vpn, helpdesk, windows, troubleshooting.",0.583024
+"UX Designer skilled in user research, prototyping, figma, wireframing.","System Administrator skilled in linux, bash scripting, vmware, networking.",0.664526
+"Mobile App Developer skilled in react native, swift, kotlin, android.","Mobile App Developer skilled in kotlin, swift, android, react native.",0.931882
+"UX Designer skilled in user research, prototyping, wireframing, figma.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.656766
+"Network Engineer skilled in routing, switching, firewalls, tcp/ip.","Network Engineer skilled in tcp/ip, switching, firewalls, routing.",0.874571
+"Mobile App Developer skilled in swift, android, kotlin, react native.","Software Engineer skilled in python, java, c++, oop.",0.551795
+"QA Engineer skilled in automation testing, selenium, python, test planning.","Database Administrator skilled in sql, performance tuning, backup, oracle.",0.592555
+"Cloud Engineer skilled in aws, azure, cloud computing, terraform.","Network Engineer skilled in switching, firewalls, routing, tcp/ip.",0.662777
+"Network Engineer skilled in tcp/ip, routing, firewalls, switching.","Cybersecurity Analyst skilled in encryption, python, linux, network security.",0.714741
+"Software Engineer skilled in java, oop, python, c++.","System Administrator skilled in vmware, networking, bash scripting, linux.",0.577322
+"UX Designer skilled in figma, prototyping, user research, wireframing.","System Administrator skilled in vmware, bash scripting, linux, networking.",0.626648
+"DevOps Engineer skilled in kubernetes, ci/cd, docker, aws.","Mobile App Developer skilled in android, react native, swift, kotlin.",0.695195
+"Machine Learning Engineer skilled in python, model deployment, pytorch, tensorflow.","Cybersecurity Analyst skilled in linux, python, encryption, network security.",0.687929
+"Data Scientist skilled in sql, machine learning, statistics, python.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.711189
+"Cybersecurity Analyst skilled in encryption, python, linux, network security.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.656513
+"System Administrator skilled in networking, linux, vmware, bash scripting.","Backend Developer skilled in python, node.js, sql, rest api.",0.572756
+"Cloud Engineer skilled in cloud computing, terraform, aws, azure.","Cybersecurity Analyst skilled in python, network security, encryption, linux.",0.639199
+"Software Engineer skilled in c++, java, python, oop.","AI Engineer skilled in nlp, python, deep learning, tensorflow.",0.690631
+"IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.","System Administrator skilled in bash scripting, vmware, linux, networking.",0.606847
+"Full Stack Developer skilled in python, node.js, react, javascript.","Database Administrator skilled in backup, oracle, sql, performance tuning.",0.578568
+"Full Stack Developer skilled in javascript, node.js, react, python.","Data Engineer skilled in hadoop, spark, airflow, etl.",0.618862
+"Mobile App Developer skilled in android, swift, kotlin, react native.","Backend Developer skilled in node.js, python, sql, rest api.",0.688276
+"Cybersecurity Analyst skilled in python, network security, linux, encryption.","Full Stack Developer skilled in python, node.js, react, javascript.",0.658624
+"Network Engineer skilled in tcp/ip, firewalls, switching, routing.","Data Engineer skilled in spark, etl, hadoop, airflow.",0.636915
+"Software Engineer skilled in java, c++, oop, python.","Data Engineer skilled in airflow, spark, etl, hadoop.",0.72989
+"Business Analyst skilled in data analysis, uml, sql, requirements gathering.","Machine Learning Engineer skilled in tensorflow, pytorch, model deployment, python.",0.577411
+"Cloud Engineer skilled in terraform, aws, azure, cloud computing.","Frontend Developer skilled in javascript, react, html, css.",0.576793
+"Database Administrator skilled in backup, performance tuning, oracle, sql.","Database Administrator skilled in backup, oracle, performance tuning, sql.",1.023809
+"Network Engineer skilled in tcp/ip, firewalls, routing, switching.","Machine Learning Engineer skilled in pytorch, model deployment, tensorflow, python.",0.60956
+"Software Engineer skilled in python, oop, java, c++.","Frontend Developer skilled in css, react, javascript, html.",0.59054
+"Machine Learning Engineer skilled in tensorflow, pytorch, model deployment, python.","Business Analyst skilled in uml, sql, requirements gathering, data analysis.",0.587231
+"QA Engineer skilled in python, selenium, test planning, automation testing.","Mobile App Developer skilled in kotlin, android, swift, react native.",0.674542
+"QA Engineer skilled in selenium, python, automation testing, test planning.","Network Engineer skilled in switching, routing, tcp/ip, firewalls.",0.634838
+"Full Stack Developer skilled in react, node.js, javascript, python.","Full Stack Developer skilled in node.js, javascript, react, python.",1.004336
+"Cybersecurity Analyst skilled in python, linux, encryption, network security.","Product Manager skilled in agile, scrum, data analysis, roadmap planning.",0.603892
+"Software Engineer skilled in c++, oop, java, python.","Business Analyst skilled in requirements gathering, uml, data analysis, sql.",0.690322
+"UX Designer skilled in user research, figma, prototyping, wireframing.","UX Designer skilled in prototyping, user research, figma, wireframing.",1.011532
+"Frontend Developer skilled in javascript, react, css, html.","Data Scientist skilled in sql, python, statistics, machine learning.",0.618481
+"Cloud Engineer skilled in azure, aws, cloud computing, terraform.","DevOps Engineer skilled in ci/cd, kubernetes, aws, docker.",0.744883
+"IT Support Specialist skilled in windows, helpdesk, troubleshooting, vpn.","Data Engineer skilled in airflow, hadoop, etl, spark.",0.677546
+"Data Scientist skilled in python, sql, statistics, machine learning.","Full Stack Developer skilled in react, python, node.js, javascript.",0.740322
+"Backend Developer skilled in python, rest api, node.js, sql.","Backend Developer skilled in sql, rest api, python, node.js.",0.907615
+"Network Engineer skilled in routing, switching, tcp/ip, firewalls.","Cloud Engineer skilled in aws, azure, cloud computing, terraform.",0.644629
+"QA Engineer skilled in automation testing, selenium, test planning, python.","Full Stack Developer skilled in python, javascript, react, node.js.",0.560618
+"Cybersecurity Analyst skilled in encryption, network security, python, linux.","UX Designer skilled in user research, figma, prototyping, wireframing.",0.588486
+"Full Stack Developer skilled in javascript, node.js, python, react.","Mobile App Developer skilled in swift, react native, android, kotlin.",0.747047
+"Data Scientist skilled in python, sql, statistics, machine learning.","Cloud Engineer skilled in aws, azure, cloud computing, terraform.",0.618627
+"Network Engineer skilled in switching, tcp/ip, firewalls, routing.","Frontend Developer skilled in css, react, javascript, html.",0.575628
+"Frontend Developer skilled in css, react, html, javascript.","Network Engineer skilled in firewalls, switching, tcp/ip, routing.",0.612075
+"Full Stack Developer skilled in javascript, node.js, react, python.","Full Stack Developer skilled in node.js, python, react, javascript.",0.899606
+"Software Engineer skilled in c++, java, oop, python.","AI Engineer skilled in deep learning, nlp, python, tensorflow.",0.652598
+"Machine Learning Engineer skilled in model deployment, tensorflow, python, pytorch.","Data Scientist skilled in statistics, sql, machine learning, python.",0.724387
+"Business Analyst skilled in sql, data analysis, uml, requirements gathering.","Product Manager skilled in data analysis, agile, scrum, roadmap planning.",0.720596
+"DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.","Frontend Developer skilled in javascript, html, css, react.",0.686614
+"UX Designer skilled in prototyping, figma, user research, wireframing.","Product Manager skilled in scrum, data analysis, agile, roadmap planning.",0.615817
+"IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.","DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.",0.661101
+"UX Designer skilled in user research, wireframing, prototyping, figma.","QA Engineer skilled in selenium, python, test planning, automation testing.",0.555491
+"UX Designer skilled in prototyping, figma, user research, wireframing.","DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.",0.61203
+"IT Support Specialist skilled in vpn, helpdesk, windows, troubleshooting.","Cloud Engineer skilled in azure, aws, terraform, cloud computing.",0.644337
+"Network Engineer skilled in firewalls, tcp/ip, routing, switching.","Database Administrator skilled in backup, sql, performance tuning, oracle.",0.667748
+"DevOps Engineer skilled in kubernetes, aws, ci/cd, docker.","Machine Learning Engineer skilled in python, pytorch, model deployment, tensorflow.",0.706282
+"AI Engineer skilled in nlp, tensorflow, python, deep learning.","DevOps Engineer skilled in aws, kubernetes, docker, ci/cd.",0.725086
+"Data Scientist skilled in statistics, sql, python, machine learning.","Mobile App Developer skilled in react native, android, kotlin, swift.",0.571534
+"Frontend Developer skilled in javascript, react, html, css.","System Administrator skilled in linux, networking, bash scripting, vmware.",0.568664
+"AI Engineer skilled in nlp, tensorflow, python, deep learning.","Backend Developer skilled in python, node.js, rest api, sql.",0.631992
+"System Administrator skilled in bash scripting, vmware, linux, networking.","Mobile App Developer skilled in swift, android, react native, kotlin.",0.576906
+"System Administrator skilled in bash scripting, vmware, linux, networking.","Network Engineer skilled in switching, tcp/ip, firewalls, routing.",0.629133
+"Cloud Engineer skilled in aws, terraform, cloud computing, azure.","IT Support Specialist skilled in windows, vpn, helpdesk, troubleshooting.",0.664378
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","Software Engineer skilled in oop, c++, python, java.",0.781041
+"Data Engineer skilled in spark, airflow, hadoop, etl.","Product Manager skilled in scrum, agile, data analysis, roadmap planning.",0.680993
+"Machine Learning Engineer skilled in pytorch, python, tensorflow, model deployment.","Cybersecurity Analyst skilled in network security, python, encryption, linux.",0.719763
+"Backend Developer skilled in sql, python, rest api, node.js.","Database Administrator skilled in performance tuning, sql, backup, oracle.",0.698871
+"UX Designer skilled in prototyping, wireframing, user research, figma.","AI Engineer skilled in deep learning, nlp, python, tensorflow.",0.621118
+"UX Designer skilled in figma, user research, prototyping, wireframing.","Product Manager skilled in data analysis, roadmap planning, agile, scrum.",0.609288
+"Network Engineer skilled in routing, switching, firewalls, tcp/ip.","Cybersecurity Analyst skilled in encryption, network security, linux, python.",0.748973
+"QA Engineer skilled in automation testing, selenium, test planning, python.","Software Engineer skilled in python, c++, java, oop.",0.636751
+"Business Analyst skilled in requirements gathering, data analysis, uml, sql.","UX Designer skilled in wireframing, user research, prototyping, figma.",0.640806
+"Data Engineer skilled in airflow, spark, hadoop, etl.","AI Engineer skilled in python, tensorflow, deep learning, nlp.",0.615276
+"Frontend Developer skilled in css, html, react, javascript.","Data Scientist skilled in sql, python, statistics, machine learning.",0.550087
+"UX Designer skilled in figma, wireframing, prototyping, user research.","Backend Developer skilled in sql, node.js, rest api, python.",0.664108
+"Cloud Engineer skilled in azure, cloud computing, aws, terraform.","Backend Developer skilled in rest api, python, node.js, sql.",0.59335
+"Database Administrator skilled in sql, backup, oracle, performance tuning.","Software Engineer skilled in oop, python, c++, java.",0.622406
+"Database Administrator skilled in backup, oracle, performance tuning, sql.","IT Support Specialist skilled in vpn, windows, helpdesk, troubleshooting.",0.628832
+"Machine Learning Engineer skilled in python, pytorch, tensorflow, model deployment.","IT Support Specialist skilled in vpn, windows, helpdesk, troubleshooting.",0.627431
+"Data Scientist skilled in sql, statistics, machine learning, python.","Database Administrator skilled in sql, performance tuning, oracle, backup.",0.733437
+"Backend Developer skilled in node.js, python, rest api, sql.","AI Engineer skilled in nlp, tensorflow, deep learning, python.",0.687496
+"System Administrator skilled in linux, bash scripting, vmware, networking.","DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.",0.59364
+"Product Manager skilled in scrum, data analysis, agile, roadmap planning.","Product Manager skilled in agile, data analysis, scrum, roadmap planning.",0.976437
+"Full Stack Developer skilled in node.js, javascript, python, react.","AI Engineer skilled in deep learning, tensorflow, nlp, python.",0.659498
+"Data Engineer skilled in hadoop, etl, spark, airflow.","Full Stack Developer skilled in react, python, javascript, node.js.",0.58708
+"Network Engineer skilled in switching, tcp/ip, routing, firewalls.","Cloud Engineer skilled in azure, cloud computing, aws, terraform.",0.643789
+"DevOps Engineer skilled in aws, docker, kubernetes, ci/cd.","UX Designer skilled in user research, figma, prototyping, wireframing.",0.563277
+"Network Engineer skilled in tcp/ip, firewalls, switching, routing.","Business Analyst skilled in data analysis, uml, sql, requirements gathering.",0.648985
+"Cloud Engineer skilled in terraform, cloud computing, aws, azure.","System Administrator skilled in networking, vmware, bash scripting, linux.",0.646913
+"UX Designer skilled in figma, user research, prototyping, wireframing.","Data Engineer skilled in airflow, etl, hadoop, spark.",0.629584
+"QA Engineer skilled in selenium, automation testing, test planning, python.","Software Engineer skilled in c++, java, python, oop.",0.608593
+"UX Designer skilled in figma, prototyping, wireframing, user research.","Data Scientist skilled in sql, machine learning, statistics, python.",0.612631
+"Cloud Engineer skilled in cloud computing, azure, aws, terraform.","Frontend Developer skilled in javascript, react, html, css.",0.609578
+"Frontend Developer skilled in javascript, react, css, html.","Backend Developer skilled in python, rest api, node.js, sql.",0.732116
+"Backend Developer skilled in sql, python, node.js, rest api.","UX Designer skilled in prototyping, wireframing, figma, user research.",0.650069
+"UX Designer skilled in wireframing, user research, prototyping, figma.","Business Analyst skilled in requirements gathering, data analysis, sql, uml.",0.572959
+"Mobile App Developer skilled in react native, kotlin, android, swift.","IT Support Specialist skilled in windows, helpdesk, troubleshooting, vpn.",0.698007
+"Full Stack Developer skilled in javascript, python, node.js, react.","UX Designer skilled in user research, wireframing, figma, prototyping.",0.695227
+"Full Stack Developer skilled in react, node.js, python, javascript.","Data Scientist skilled in python, sql, statistics, machine learning.",0.666825
+"Frontend Developer skilled in javascript, react, css, html.","AI Engineer skilled in python, tensorflow, nlp, deep learning.",0.678912
+"Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.","Business Analyst skilled in uml, data analysis, sql, requirements gathering.",0.677894
+"Machine Learning Engineer skilled in pytorch, python, tensorflow, model deployment.","Backend Developer skilled in sql, rest api, python, node.js.",0.737535
+"Data Scientist skilled in python, statistics, machine learning, sql.","Machine Learning Engineer skilled in python, model deployment, pytorch, tensorflow.",0.691224
+"Cloud Engineer skilled in terraform, cloud computing, azure, aws.","Cybersecurity Analyst skilled in encryption, network security, linux, python.",0.583949
+"Frontend Developer skilled in css, react, javascript, html.","IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.",0.69789
+"Full Stack Developer skilled in python, node.js, react, javascript.","UX Designer skilled in wireframing, prototyping, user research, figma.",0.638223
+"DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.","Network Engineer skilled in tcp/ip, switching, routing, firewalls.",0.679232
+"Frontend Developer skilled in html, react, javascript, css.","Business Analyst skilled in requirements gathering, sql, data analysis, uml.",0.670662
+"AI Engineer skilled in python, tensorflow, deep learning, nlp.","Product Manager skilled in scrum, agile, data analysis, roadmap planning.",0.589325
+"Backend Developer skilled in sql, python, node.js, rest api.","Mobile App Developer skilled in react native, android, swift, kotlin.",0.668751
+"Frontend Developer skilled in javascript, css, html, react.","Software Engineer skilled in python, c++, java, oop.",0.668051
+"DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.","Product Manager skilled in data analysis, roadmap planning, scrum, agile.",0.667947
+"Data Scientist skilled in statistics, machine learning, sql, python.","Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.",0.712612
+"Full Stack Developer skilled in python, react, node.js, javascript.","Mobile App Developer skilled in kotlin, swift, react native, android.",0.730142
+"Full Stack Developer skilled in javascript, node.js, react, python.","Machine Learning Engineer skilled in python, tensorflow, pytorch, model deployment.",0.692544
+"Machine Learning Engineer skilled in pytorch, python, model deployment, tensorflow.","Database Administrator skilled in backup, sql, performance tuning, oracle.",0.694157
+"Database Administrator skilled in oracle, backup, sql, performance tuning.","Mobile App Developer skilled in kotlin, swift, android, react native.",0.562654
+"Backend Developer skilled in rest api, python, sql, node.js.","Database Administrator skilled in backup, sql, performance tuning, oracle.",0.612226
+"System Administrator skilled in bash scripting, vmware, linux, networking.","DevOps Engineer skilled in kubernetes, ci/cd, docker, aws.",0.672443
+"Product Manager skilled in data analysis, roadmap planning, scrum, agile.","Machine Learning Engineer skilled in model deployment, pytorch, python, tensorflow.",0.668495
+"Full Stack Developer skilled in python, javascript, node.js, react.","Cloud Engineer skilled in terraform, aws, cloud computing, azure.",0.577016
+"AI Engineer skilled in deep learning, nlp, python, tensorflow.","AI Engineer skilled in tensorflow, nlp, python, deep learning.",0.801206
+"IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.","Backend Developer skilled in python, node.js, sql, rest api.",0.551135
+"Cybersecurity Analyst skilled in linux, encryption, network security, python.","Software Engineer skilled in oop, java, c++, python.",0.670611
+"Data Scientist skilled in python, machine learning, statistics, sql.","Frontend Developer skilled in react, html, javascript, css.",0.680341
+"Cybersecurity Analyst skilled in python, encryption, network security, linux.","Frontend Developer skilled in html, css, react, javascript.",0.60636
+"Network Engineer skilled in switching, routing, firewalls, tcp/ip.","Software Engineer skilled in java, oop, python, c++.",0.706127
+"Machine Learning Engineer skilled in tensorflow, model deployment, python, pytorch.","Full Stack Developer skilled in javascript, react, python, node.js.",0.684301
+"System Administrator skilled in networking, bash scripting, linux, vmware.","IT Support Specialist skilled in windows, helpdesk, vpn, troubleshooting.",0.663923
+"Business Analyst skilled in requirements gathering, uml, sql, data analysis.","UX Designer skilled in wireframing, prototyping, user research, figma.",0.638746
+"QA Engineer skilled in selenium, python, automation testing, test planning.","Data Engineer skilled in hadoop, airflow, etl, spark.",0.68588
+"Software Engineer skilled in c++, java, python, oop.","DevOps Engineer skilled in docker, aws, ci/cd, kubernetes.",0.652368
+"Full Stack Developer skilled in react, javascript, node.js, python.","Frontend Developer skilled in html, react, javascript, css.",0.711601
+"System Administrator skilled in vmware, linux, bash scripting, networking.","Cybersecurity Analyst skilled in linux, python, encryption, network security.",0.694125
+"UX Designer skilled in figma, wireframing, user research, prototyping.","DevOps Engineer skilled in docker, ci/cd, kubernetes, aws.",0.604074
+"Frontend Developer skilled in html, javascript, react, css.","System Administrator skilled in linux, vmware, bash scripting, networking.",0.594687
+"Business Analyst skilled in requirements gathering, uml, data analysis, sql.","System Administrator skilled in networking, bash scripting, linux, vmware.",0.558387
+"Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.","IT Support Specialist skilled in vpn, helpdesk, troubleshooting, windows.",0.691601
+"Business Analyst skilled in data analysis, sql, uml, requirements gathering.","Software Engineer skilled in python, oop, c++, java.",0.676534
+"Data Scientist skilled in machine learning, sql, python, statistics.","UX Designer skilled in prototyping, figma, user research, wireframing.",0.667347
+"Cybersecurity Analyst skilled in encryption, linux, python, network security.","DevOps Engineer skilled in kubernetes, docker, aws, ci/cd.",0.656165
+"IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.","DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.",0.562729
+"Business Analyst skilled in uml, data analysis, requirements gathering, sql.","Full Stack Developer skilled in react, python, javascript, node.js.",0.618916
+"Business Analyst skilled in uml, data analysis, requirements gathering, sql.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.605705
+"UX Designer skilled in wireframing, prototyping, user research, figma.","System Administrator skilled in bash scripting, networking, vmware, linux.",0.638993
+"Software Engineer skilled in java, oop, c++, python.","Frontend Developer skilled in css, html, react, javascript.",0.683242
+"Frontend Developer skilled in css, javascript, react, html.","Product Manager skilled in data analysis, agile, roadmap planning, scrum.",0.652737
+"Business Analyst skilled in requirements gathering, sql, uml, data analysis.","Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.",0.579617
+"Data Engineer skilled in airflow, hadoop, spark, etl.","Database Administrator skilled in oracle, sql, backup, performance tuning.",0.551971
+"Business Analyst skilled in data analysis, requirements gathering, sql, uml.","AI Engineer skilled in nlp, deep learning, tensorflow, python.",0.563112
+"DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.","Cloud Engineer skilled in terraform, cloud computing, azure, aws.",0.63263
+"DevOps Engineer skilled in aws, kubernetes, docker, ci/cd.","Machine Learning Engineer skilled in pytorch, python, model deployment, tensorflow.",0.616485
+"Mobile App Developer skilled in android, kotlin, react native, swift.","QA Engineer skilled in selenium, automation testing, python, test planning.",0.671914
+"AI Engineer skilled in python, nlp, deep learning, tensorflow.","System Administrator skilled in networking, vmware, linux, bash scripting.",0.685271
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","Machine Learning Engineer skilled in model deployment, pytorch, python, tensorflow.",1.088964
+"Cybersecurity Analyst skilled in python, network security, linux, encryption.","Business Analyst skilled in data analysis, requirements gathering, uml, sql.",0.703069
+"UX Designer skilled in prototyping, wireframing, user research, figma.","Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.",0.613475
+"UX Designer skilled in figma, user research, wireframing, prototyping.","Cybersecurity Analyst skilled in linux, encryption, network security, python.",0.550437
+"Backend Developer skilled in node.js, sql, rest api, python.","Cybersecurity Analyst skilled in network security, encryption, python, linux.",0.556997
+"AI Engineer skilled in deep learning, tensorflow, python, nlp.","Machine Learning Engineer skilled in tensorflow, python, pytorch, model deployment.",0.823655
+"DevOps Engineer skilled in kubernetes, aws, ci/cd, docker.","Cybersecurity Analyst skilled in python, network security, linux, encryption.",0.621162
+"Product Manager skilled in agile, data analysis, roadmap planning, scrum.","Cloud Engineer skilled in azure, cloud computing, terraform, aws.",0.553873
+"Backend Developer skilled in sql, node.js, python, rest api.","DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.",0.619791
+"DevOps Engineer skilled in kubernetes, ci/cd, aws, docker.","QA Engineer skilled in test planning, selenium, automation testing, python.",0.727546
+"Network Engineer skilled in switching, tcp/ip, routing, firewalls.","Software Engineer skilled in java, python, oop, c++.",0.706274
+"Software Engineer skilled in java, oop, c++, python.","UX Designer skilled in wireframing, prototyping, figma, user research.",0.615148
+"AI Engineer skilled in deep learning, python, nlp, tensorflow.","Frontend Developer skilled in react, css, html, javascript.",0.561872
+"Full Stack Developer skilled in javascript, react, python, node.js.","Frontend Developer skilled in html, javascript, react, css.",0.750926
+"AI Engineer skilled in deep learning, nlp, python, tensorflow.","Frontend Developer skilled in html, javascript, css, react.",0.616574
+"Cloud Engineer skilled in cloud computing, aws, terraform, azure.","Frontend Developer skilled in css, html, react, javascript.",0.667538
+"Network Engineer skilled in tcp/ip, firewalls, routing, switching.","Cloud Engineer skilled in cloud computing, azure, aws, terraform.",0.686252
+"Frontend Developer skilled in react, javascript, html, css.","Cybersecurity Analyst skilled in python, encryption, linux, network security.",0.676591
+"IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.","Frontend Developer skilled in html, javascript, react, css.",0.59974
+"IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.","Full Stack Developer skilled in react, node.js, javascript, python.",0.691404
+"DevOps Engineer skilled in ci/cd, aws, docker, kubernetes.","Cloud Engineer skilled in cloud computing, terraform, aws, azure.",0.705352
+"Software Engineer skilled in java, c++, python, oop.","Network Engineer skilled in tcp/ip, switching, firewalls, routing.",0.673465
+"Network Engineer skilled in switching, firewalls, tcp/ip, routing.","QA Engineer skilled in selenium, automation testing, test planning, python.",0.699982
+"Full Stack Developer skilled in react, python, node.js, javascript.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.577088
+"Full Stack Developer skilled in python, node.js, javascript, react.","Mobile App Developer skilled in android, react native, kotlin, swift.",0.689057
+"Backend Developer skilled in rest api, sql, node.js, python.","Business Analyst skilled in sql, data analysis, uml, requirements gathering.",0.625371
+"System Administrator skilled in vmware, networking, bash scripting, linux.","Data Scientist skilled in machine learning, statistics, python, sql.",0.599384
+"IT Support Specialist skilled in troubleshooting, helpdesk, windows, vpn.","Full Stack Developer skilled in python, node.js, javascript, react.",0.607334
+"Software Engineer skilled in python, c++, java, oop.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.551888
+"QA Engineer skilled in automation testing, selenium, test planning, python.","Frontend Developer skilled in html, javascript, css, react.",0.559782
+"Network Engineer skilled in firewalls, routing, switching, tcp/ip.","Business Analyst skilled in requirements gathering, sql, uml, data analysis.",0.589233
+"Frontend Developer skilled in react, javascript, css, html.","IT Support Specialist skilled in vpn, helpdesk, windows, troubleshooting.",0.652765
+"Frontend Developer skilled in javascript, css, html, react.","System Administrator skilled in networking, vmware, bash scripting, linux.",0.574011
+"AI Engineer skilled in python, deep learning, nlp, tensorflow.","Full Stack Developer skilled in react, python, node.js, javascript.",0.668593
+"Data Scientist skilled in python, sql, statistics, machine learning.","Full Stack Developer skilled in javascript, python, react, node.js.",0.660479
+"Network Engineer skilled in tcp/ip, switching, routing, firewalls.","Machine Learning Engineer skilled in tensorflow, pytorch, model deployment, python.",0.611943
+"AI Engineer skilled in nlp, tensorflow, python, deep learning.","Data Engineer skilled in etl, hadoop, airflow, spark.",0.679775
+"Network Engineer skilled in firewalls, switching, routing, tcp/ip.","Business Analyst skilled in uml, sql, requirements gathering, data analysis.",0.67461
+"AI Engineer skilled in python, tensorflow, deep learning, nlp.","Product Manager skilled in roadmap planning, agile, data analysis, scrum.",0.624792
+"Network Engineer skilled in firewalls, routing, switching, tcp/ip.","Network Engineer skilled in firewalls, routing, tcp/ip, switching.",0.817057
+"Cloud Engineer skilled in azure, aws, terraform, cloud computing.","Machine Learning Engineer skilled in tensorflow, model deployment, python, pytorch.",0.732383
+"Cybersecurity Analyst skilled in python, encryption, network security, linux.","Mobile App Developer skilled in react native, android, kotlin, swift.",0.641131
+"Product Manager skilled in agile, scrum, roadmap planning, data analysis.","Database Administrator skilled in backup, oracle, sql, performance tuning.",0.551907
+"QA Engineer skilled in test planning, python, automation testing, selenium.","Database Administrator skilled in sql, performance tuning, backup, oracle.",0.572038
+"Cybersecurity Analyst skilled in linux, python, network security, encryption.","System Administrator skilled in networking, linux, bash scripting, vmware.",0.644726
+"Data Engineer skilled in hadoop, airflow, spark, etl.","Machine Learning Engineer skilled in model deployment, pytorch, tensorflow, python.",0.69443
+"DevOps Engineer skilled in docker, aws, kubernetes, ci/cd.","Mobile App Developer skilled in android, kotlin, swift, react native.",0.554126
+"Product Manager skilled in scrum, data analysis, agile, roadmap planning.","Full Stack Developer skilled in node.js, python, javascript, react.",0.567675
+"Cloud Engineer skilled in azure, aws, cloud computing, terraform.","System Administrator skilled in networking, linux, bash scripting, vmware.",0.602644
+"IT Support Specialist skilled in windows, troubleshooting, helpdesk, vpn.","Product Manager skilled in scrum, roadmap planning, data analysis, agile.",0.621146
+"Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.","Mobile App Developer skilled in swift, android, kotlin, react native.",0.60558
+"Database Administrator skilled in backup, oracle, performance tuning, sql.","Mobile App Developer skilled in android, react native, kotlin, swift.",0.683276
+"Mobile App Developer skilled in android, kotlin, react native, swift.","Cloud Engineer skilled in cloud computing, aws, terraform, azure.",0.651398
+"Frontend Developer skilled in javascript, react, css, html.","IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.",0.625718
+"IT Support Specialist skilled in troubleshooting, helpdesk, windows, vpn.","Network Engineer skilled in routing, firewalls, tcp/ip, switching.",0.571391
+"Machine Learning Engineer skilled in python, pytorch, tensorflow, model deployment.","QA Engineer skilled in selenium, python, test planning, automation testing.",0.691612
+"DevOps Engineer skilled in aws, docker, kubernetes, ci/cd.","UX Designer skilled in wireframing, user research, prototyping, figma.",0.59677
+"Frontend Developer skilled in css, javascript, html, react.","Frontend Developer skilled in react, html, javascript, css.",0.874389
+"Product Manager skilled in scrum, data analysis, agile, roadmap planning.","System Administrator skilled in vmware, linux, bash scripting, networking.",0.639159
+"Mobile App Developer skilled in android, kotlin, react native, swift.","Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.",0.555819
+"Software Engineer skilled in oop, c++, python, java.","Mobile App Developer skilled in swift, react native, kotlin, android.",0.658568
+"Cloud Engineer skilled in aws, azure, terraform, cloud computing.","AI Engineer skilled in deep learning, python, nlp, tensorflow.",0.643359
+"IT Support Specialist skilled in helpdesk, windows, troubleshooting, vpn.","Product Manager skilled in roadmap planning, agile, scrum, data analysis.",0.610742
+"Product Manager skilled in agile, scrum, data analysis, roadmap planning.","Product Manager skilled in agile, scrum, roadmap planning, data analysis.",0.878233
+"IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.","Mobile App Developer skilled in kotlin, swift, react native, android.",0.565578
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","Mobile App Developer skilled in android, kotlin, swift, react native.",0.582386
+"Software Engineer skilled in java, c++, oop, python.","UX Designer skilled in prototyping, wireframing, figma, user research.",0.583414
+"Data Engineer skilled in hadoop, airflow, etl, spark.","Cloud Engineer skilled in terraform, cloud computing, azure, aws.",0.695847
+"Product Manager skilled in data analysis, scrum, roadmap planning, agile.","Full Stack Developer skilled in react, node.js, python, javascript.",0.578301
+"Software Engineer skilled in python, c++, oop, java.","Backend Developer skilled in rest api, python, node.js, sql.",0.640971
+"Cloud Engineer skilled in terraform, aws, azure, cloud computing.","System Administrator skilled in vmware, bash scripting, networking, linux.",0.623598
+"QA Engineer skilled in selenium, python, automation testing, test planning.","IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.",0.596873
+"Software Engineer skilled in python, java, c++, oop.","IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.",0.590421
+"Business Analyst skilled in requirements gathering, data analysis, sql, uml.","Backend Developer skilled in rest api, python, sql, node.js.",0.65127
+"Network Engineer skilled in routing, tcp/ip, switching, firewalls.","Full Stack Developer skilled in node.js, python, react, javascript.",0.642403
+"Frontend Developer skilled in react, html, css, javascript.","QA Engineer skilled in python, automation testing, test planning, selenium.",0.612128
+"Mobile App Developer skilled in android, kotlin, react native, swift.","Backend Developer skilled in sql, node.js, python, rest api.",0.654901
+"Full Stack Developer skilled in react, node.js, python, javascript.","QA Engineer skilled in selenium, python, automation testing, test planning.",0.619191
+"DevOps Engineer skilled in ci/cd, aws, docker, kubernetes.","IT Support Specialist skilled in windows, troubleshooting, helpdesk, vpn.",0.69765
+"Backend Developer skilled in node.js, python, rest api, sql.","AI Engineer skilled in deep learning, tensorflow, python, nlp.",0.678779
+"Database Administrator skilled in sql, oracle, backup, performance tuning.","UX Designer skilled in wireframing, figma, user research, prototyping.",0.678662
+"UX Designer skilled in figma, prototyping, wireframing, user research.","IT Support Specialist skilled in vpn, windows, helpdesk, troubleshooting.",0.603774
+"Network Engineer skilled in firewalls, routing, switching, tcp/ip.","Backend Developer skilled in rest api, sql, python, node.js.",0.674254
+"Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.","IT Support Specialist skilled in troubleshooting, windows, helpdesk, vpn.",0.692251
+"Backend Developer skilled in rest api, sql, node.js, python.","IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.",0.674389
+"IT Support Specialist skilled in vpn, helpdesk, troubleshooting, windows.","QA Engineer skilled in selenium, python, automation testing, test planning.",0.552128
+"Data Engineer skilled in etl, hadoop, airflow, spark.","AI Engineer skilled in tensorflow, nlp, python, deep learning.",0.673085
+"Data Engineer skilled in hadoop, spark, etl, airflow.","Business Analyst skilled in sql, data analysis, uml, requirements gathering.",0.675839
+"Business Analyst skilled in requirements gathering, sql, uml, data analysis.","Frontend Developer skilled in react, css, html, javascript.",0.678809
+"Software Engineer skilled in c++, java, python, oop.","Mobile App Developer skilled in react native, swift, android, kotlin.",0.551427
+"Network Engineer skilled in routing, tcp/ip, switching, firewalls.","AI Engineer skilled in nlp, python, tensorflow, deep learning.",0.670671
+"Database Administrator skilled in performance tuning, backup, sql, oracle.","Data Scientist skilled in python, sql, machine learning, statistics.",0.621674
+"Backend Developer skilled in python, node.js, rest api, sql.","QA Engineer skilled in selenium, python, test planning, automation testing.",0.677657
+"Database Administrator skilled in backup, performance tuning, sql, oracle.","Frontend Developer skilled in javascript, css, html, react.",0.61447
+"Software Engineer skilled in python, oop, java, c++.","UX Designer skilled in wireframing, user research, prototyping, figma.",0.608859
+"DevOps Engineer skilled in aws, kubernetes, docker, ci/cd.","Software Engineer skilled in c++, python, oop, java.",0.617953
+"Software Engineer skilled in oop, java, python, c++.","Product Manager skilled in agile, scrum, roadmap planning, data analysis.",0.692887
+"Software Engineer skilled in python, c++, oop, java.","Data Engineer skilled in hadoop, airflow, spark, etl.",0.736279
+"Database Administrator skilled in oracle, performance tuning, backup, sql.","Database Administrator skilled in sql, performance tuning, backup, oracle.",0.812268
+"DevOps Engineer skilled in aws, ci/cd, docker, kubernetes.","Cloud Engineer skilled in terraform, azure, aws, cloud computing.",0.778994
+"Full Stack Developer skilled in node.js, react, javascript, python.","Software Engineer skilled in c++, python, java, oop.",0.680366
+"IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.","AI Engineer skilled in nlp, deep learning, python, tensorflow.",0.642433
+"Backend Developer skilled in node.js, python, rest api, sql.","Business Analyst skilled in requirements gathering, sql, uml, data analysis.",0.69148
+"Cybersecurity Analyst skilled in python, encryption, linux, network security.","Network Engineer skilled in routing, tcp/ip, firewalls, switching.",0.627333
+"DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.","Product Manager skilled in scrum, agile, data analysis, roadmap planning.",0.677653
+"DevOps Engineer skilled in kubernetes, ci/cd, aws, docker.","Network Engineer skilled in tcp/ip, firewalls, switching, routing.",0.713928
+"Data Engineer skilled in spark, hadoop, etl, airflow.","Product Manager skilled in data analysis, agile, scrum, roadmap planning.",0.655779
+"Data Engineer skilled in etl, hadoop, airflow, spark.","Full Stack Developer skilled in javascript, node.js, python, react.",0.57153
+"Business Analyst skilled in requirements gathering, sql, uml, data analysis.","Network Engineer skilled in switching, firewalls, routing, tcp/ip.",0.638652
+"Business Analyst skilled in requirements gathering, sql, data analysis, uml.","Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.",0.582008
+"QA Engineer skilled in python, selenium, test planning, automation testing.","Data Scientist skilled in machine learning, python, sql, statistics.",0.707325
+"IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.","Data Scientist skilled in machine learning, python, sql, statistics.",0.666977
+"Mobile App Developer skilled in kotlin, react native, swift, android.","Data Engineer skilled in hadoop, airflow, etl, spark.",0.697689
+"Network Engineer skilled in routing, switching, firewalls, tcp/ip.","Cybersecurity Analyst skilled in python, encryption, network security, linux.",0.603336
+"UX Designer skilled in user research, wireframing, prototyping, figma.","Frontend Developer skilled in react, javascript, css, html.",0.555045
+"Business Analyst skilled in uml, requirements gathering, sql, data analysis.","Data Scientist skilled in statistics, python, sql, machine learning.",0.741385
+"Cybersecurity Analyst skilled in encryption, linux, python, network security.","Backend Developer skilled in python, sql, rest api, node.js.",0.728736
+"Software Engineer skilled in python, java, oop, c++.","Business Analyst skilled in uml, requirements gathering, sql, data analysis.",0.599196
+"UX Designer skilled in prototyping, figma, wireframing, user research.","Cybersecurity Analyst skilled in network security, python, linux, encryption.",0.652408
+"Full Stack Developer skilled in python, node.js, javascript, react.","DevOps Engineer skilled in ci/cd, aws, kubernetes, docker.",0.571161
+"Frontend Developer skilled in css, javascript, html, react.","Mobile App Developer skilled in swift, kotlin, android, react native.",0.703733
+"AI Engineer skilled in python, deep learning, tensorflow, nlp.","UX Designer skilled in wireframing, prototyping, user research, figma.",0.644229
+"Business Analyst skilled in data analysis, requirements gathering, sql, uml.","System Administrator skilled in bash scripting, linux, networking, vmware.",0.557502
+"UX Designer skilled in wireframing, user research, prototyping, figma.","Network Engineer skilled in switching, firewalls, tcp/ip, routing.",0.582692
+"Business Analyst skilled in sql, uml, data analysis, requirements gathering.","Full Stack Developer skilled in javascript, node.js, python, react.",0.566501
+"QA Engineer skilled in selenium, test planning, automation testing, python.","Mobile App Developer skilled in react native, android, kotlin, swift.",0.623564
+"Backend Developer skilled in sql, node.js, rest api, python.","UX Designer skilled in user research, figma, wireframing, prototyping.",0.655391
+"Backend Developer skilled in node.js, python, rest api, sql.","UX Designer skilled in prototyping, wireframing, figma, user research.",0.572645
+"UX Designer skilled in prototyping, wireframing, figma, user research.","AI Engineer skilled in deep learning, nlp, tensorflow, python.",0.608939
+"AI Engineer skilled in tensorflow, deep learning, nlp, python.","Business Analyst skilled in requirements gathering, sql, uml, data analysis.",0.616341
+"AI Engineer skilled in deep learning, nlp, tensorflow, python.","UX Designer skilled in user research, wireframing, figma, prototyping.",0.555745
+"Backend Developer skilled in sql, rest api, python, node.js.","Cybersecurity Analyst skilled in encryption, linux, python, network security.",0.625297
+"Data Engineer skilled in hadoop, etl, airflow, spark.","QA Engineer skilled in test planning, python, automation testing, selenium.",0.624126
+"Cloud Engineer skilled in terraform, azure, aws, cloud computing.","System Administrator skilled in bash scripting, vmware, networking, linux.",0.623077
+"QA Engineer skilled in python, test planning, automation testing, selenium.","Software Engineer skilled in c++, java, oop, python.",0.648118
+"UX Designer skilled in user research, wireframing, prototyping, figma.","UX Designer skilled in figma, user research, wireframing, prototyping.",0.812824
+"Frontend Developer skilled in react, css, javascript, html.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.69323
+"Software Engineer skilled in c++, java, oop, python.","AI Engineer skilled in tensorflow, nlp, python, deep learning.",0.702732
+"DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.","Backend Developer skilled in python, node.js, sql, rest api.",0.569102
+"UX Designer skilled in user research, wireframing, prototyping, figma.","Mobile App Developer skilled in react native, kotlin, android, swift.",0.621857
+"Machine Learning Engineer skilled in python, pytorch, model deployment, tensorflow.","Product Manager skilled in scrum, agile, data analysis, roadmap planning.",0.650822
+"Cybersecurity Analyst skilled in network security, encryption, python, linux.","Data Scientist skilled in statistics, sql, machine learning, python.",0.661532
+"IT Support Specialist skilled in troubleshooting, windows, helpdesk, vpn.","Frontend Developer skilled in javascript, css, html, react.",0.55218
+"Frontend Developer skilled in javascript, react, html, css.","UX Designer skilled in wireframing, figma, prototyping, user research.",0.606356
+"Product Manager skilled in data analysis, scrum, roadmap planning, agile.","Software Engineer skilled in python, c++, java, oop.",0.599225
+"Database Administrator skilled in sql, backup, oracle, performance tuning.","Frontend Developer skilled in html, react, javascript, css.",0.666925
+"System Administrator skilled in bash scripting, networking, linux, vmware.","Product Manager skilled in agile, roadmap planning, data analysis, scrum.",0.584104
+"Product Manager skilled in roadmap planning, scrum, data analysis, agile.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.656984
+"UX Designer skilled in wireframing, user research, figma, prototyping.","Product Manager skilled in agile, data analysis, scrum, roadmap planning.",0.613767
+"Product Manager skilled in agile, data analysis, roadmap planning, scrum.","Mobile App Developer skilled in react native, swift, android, kotlin.",0.58853
+"QA Engineer skilled in selenium, test planning, automation testing, python.","UX Designer skilled in prototyping, figma, user research, wireframing.",0.62525
+"IT Support Specialist skilled in helpdesk, troubleshooting, vpn, windows.","Cybersecurity Analyst skilled in network security, encryption, python, linux.",0.559879
+"Cybersecurity Analyst skilled in encryption, network security, python, linux.","Network Engineer skilled in firewalls, tcp/ip, routing, switching.",0.614154
+"Product Manager skilled in data analysis, roadmap planning, scrum, agile.","Machine Learning Engineer skilled in model deployment, python, tensorflow, pytorch.",0.652751
+"Mobile App Developer skilled in kotlin, android, swift, react native.","Data Engineer skilled in airflow, etl, hadoop, spark.",0.59112
+"Full Stack Developer skilled in javascript, node.js, python, react.","Cybersecurity Analyst skilled in encryption, network security, linux, python.",0.670593
+"UX Designer skilled in user research, figma, prototyping, wireframing.","Machine Learning Engineer skilled in model deployment, python, tensorflow, pytorch.",0.688507
+"DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.","Cloud Engineer skilled in cloud computing, terraform, aws, azure.",0.64428
+"Frontend Developer skilled in css, javascript, html, react.","Mobile App Developer skilled in swift, android, kotlin, react native.",0.730989
+"QA Engineer skilled in test planning, selenium, automation testing, python.","Cybersecurity Analyst skilled in linux, encryption, python, network security.",0.584477
+"Cybersecurity Analyst skilled in linux, encryption, network security, python.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.641823
+"UX Designer skilled in user research, wireframing, prototyping, figma.","Backend Developer skilled in rest api, python, node.js, sql.",0.561036
+"Machine Learning Engineer skilled in model deployment, pytorch, tensorflow, python.","Full Stack Developer skilled in node.js, react, javascript, python.",0.649494
+"Database Administrator skilled in oracle, performance tuning, sql, backup.","Cybersecurity Analyst skilled in network security, python, linux, encryption.",0.620201
+"Backend Developer skilled in rest api, python, node.js, sql.","Cybersecurity Analyst skilled in python, linux, encryption, network security.",0.71789
+"Mobile App Developer skilled in kotlin, react native, swift, android.","Frontend Developer skilled in javascript, react, css, html.",0.625127
+"DevOps Engineer skilled in kubernetes, docker, aws, ci/cd.","IT Support Specialist skilled in troubleshooting, helpdesk, windows, vpn.",0.635634
+"Data Engineer skilled in hadoop, spark, etl, airflow.","Full Stack Developer skilled in python, javascript, react, node.js.",0.557791
+"System Administrator skilled in vmware, linux, bash scripting, networking.","Machine Learning Engineer skilled in tensorflow, pytorch, model deployment, python.",0.581254
+"Software Engineer skilled in python, java, c++, oop.","Cybersecurity Analyst skilled in encryption, network security, linux, python.",0.572873
+"AI Engineer skilled in python, deep learning, tensorflow, nlp.","Business Analyst skilled in sql, data analysis, requirements gathering, uml.",0.590344
+"Cybersecurity Analyst skilled in python, encryption, linux, network security.","AI Engineer skilled in nlp, deep learning, python, tensorflow.",0.659798
+"Database Administrator skilled in oracle, sql, backup, performance tuning.","IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.",0.604137
+"Database Administrator skilled in oracle, sql, performance tuning, backup.","IT Support Specialist skilled in windows, helpdesk, vpn, troubleshooting.",0.623601
+"Software Engineer skilled in c++, java, python, oop.","DevOps Engineer skilled in aws, docker, kubernetes, ci/cd.",0.729566
+"Mobile App Developer skilled in react native, kotlin, swift, android.","Backend Developer skilled in sql, python, node.js, rest api.",0.62983
+"Mobile App Developer skilled in kotlin, swift, android, react native.","Machine Learning Engineer skilled in pytorch, python, model deployment, tensorflow.",0.566166
+"Data Scientist skilled in machine learning, sql, python, statistics.","Product Manager skilled in data analysis, roadmap planning, scrum, agile.",0.743526
+"Data Scientist skilled in python, sql, statistics, machine learning.","Cloud Engineer skilled in terraform, cloud computing, aws, azure.",0.609337
+"Backend Developer skilled in sql, rest api, node.js, python.","Backend Developer skilled in sql, python, node.js, rest api.",0.808066
+"Data Engineer skilled in hadoop, etl, spark, airflow.","System Administrator skilled in linux, vmware, networking, bash scripting.",0.632602
+"Business Analyst skilled in uml, data analysis, requirements gathering, sql.","Software Engineer skilled in python, oop, c++, java.",0.559369
+"Cloud Engineer skilled in cloud computing, azure, terraform, aws.","Machine Learning Engineer skilled in pytorch, tensorflow, python, model deployment.",0.66729
+"Cloud Engineer skilled in terraform, aws, cloud computing, azure.","Cloud Engineer skilled in aws, terraform, azure, cloud computing.",0.783744
+"Backend Developer skilled in node.js, python, rest api, sql.","Full Stack Developer skilled in node.js, python, javascript, react.",0.706413
+"Machine Learning Engineer skilled in model deployment, pytorch, tensorflow, python.","Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.",0.966709
+"Cybersecurity Analyst skilled in network security, python, encryption, linux.","Product Manager skilled in scrum, data analysis, agile, roadmap planning.",0.562277
+"Cloud Engineer skilled in azure, terraform, cloud computing, aws.","Cloud Engineer skilled in terraform, azure, cloud computing, aws.",0.902227
+"Business Analyst skilled in sql, uml, data analysis, requirements gathering.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.62035
+"Data Engineer skilled in hadoop, spark, etl, airflow.","AI Engineer skilled in tensorflow, deep learning, python, nlp.",0.644752
+"Cloud Engineer skilled in cloud computing, aws, azure, terraform.","Mobile App Developer skilled in kotlin, swift, android, react native.",0.660388
+"Product Manager skilled in data analysis, scrum, roadmap planning, agile.","Data Scientist skilled in machine learning, python, statistics, sql.",0.708831
+"Database Administrator skilled in performance tuning, oracle, backup, sql.","DevOps Engineer skilled in aws, ci/cd, docker, kubernetes.",0.553189
+"Database Administrator skilled in backup, sql, oracle, performance tuning.","Frontend Developer skilled in react, html, javascript, css.",0.593247
+"Network Engineer skilled in routing, firewalls, switching, tcp/ip.","Business Analyst skilled in data analysis, uml, sql, requirements gathering.",0.675371
+"Mobile App Developer skilled in swift, react native, kotlin, android.","Backend Developer skilled in node.js, rest api, python, sql.",0.7497
+"Network Engineer skilled in switching, routing, tcp/ip, firewalls.","Product Manager skilled in roadmap planning, scrum, data analysis, agile.",0.649918
+"Business Analyst skilled in data analysis, sql, requirements gathering, uml.","IT Support Specialist skilled in troubleshooting, helpdesk, vpn, windows.",0.681852
+"Data Engineer skilled in airflow, spark, hadoop, etl.","Mobile App Developer skilled in android, swift, react native, kotlin.",0.588103
+"Product Manager skilled in agile, data analysis, roadmap planning, scrum.","Software Engineer skilled in python, java, oop, c++.",0.578614
+"DevOps Engineer skilled in aws, docker, ci/cd, kubernetes.","DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.",0.896629
+"UX Designer skilled in user research, figma, prototyping, wireframing.","Product Manager skilled in roadmap planning, scrum, agile, data analysis.",0.555179
+"Data Engineer skilled in airflow, etl, hadoop, spark.","Data Engineer skilled in airflow, etl, spark, hadoop.",0.757771
+"Cybersecurity Analyst skilled in network security, linux, encryption, python.","UX Designer skilled in user research, wireframing, prototyping, figma.",0.593945
+"Business Analyst skilled in requirements gathering, sql, uml, data analysis.","Network Engineer skilled in tcp/ip, firewalls, switching, routing.",0.605222
+"IT Support Specialist skilled in helpdesk, windows, vpn, troubleshooting.","IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.",0.871556
+"Cloud Engineer skilled in aws, terraform, cloud computing, azure.","Network Engineer skilled in routing, switching, tcp/ip, firewalls.",0.616423
+"Data Engineer skilled in hadoop, spark, airflow, etl.","Cloud Engineer skilled in azure, aws, terraform, cloud computing.",0.691887
+"IT Support Specialist skilled in troubleshooting, helpdesk, windows, vpn.","Machine Learning Engineer skilled in python, model deployment, pytorch, tensorflow.",0.694069
+"IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.","Data Engineer skilled in spark, hadoop, airflow, etl.",0.680773
+"AI Engineer skilled in nlp, python, deep learning, tensorflow.","DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.",0.714159
+"QA Engineer skilled in selenium, python, test planning, automation testing.","Network Engineer skilled in switching, tcp/ip, routing, firewalls.",0.641808
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","IT Support Specialist skilled in helpdesk, windows, troubleshooting, vpn.",0.638447
+"UX Designer skilled in wireframing, user research, prototyping, figma.","Mobile App Developer skilled in swift, kotlin, android, react native.",0.555843
+"Data Engineer skilled in spark, airflow, hadoop, etl.","Network Engineer skilled in tcp/ip, firewalls, switching, routing.",0.663644
+"Data Engineer skilled in airflow, spark, hadoop, etl.","Frontend Developer skilled in react, javascript, html, css.",0.559977
+"Mobile App Developer skilled in react native, swift, android, kotlin.","Cybersecurity Analyst skilled in encryption, network security, python, linux.",0.687315
+"Database Administrator skilled in backup, oracle, performance tuning, sql.","Product Manager skilled in scrum, agile, roadmap planning, data analysis.",0.69127
+"UX Designer skilled in user research, wireframing, prototyping, figma.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.652597
+"Cloud Engineer skilled in azure, terraform, aws, cloud computing.","Frontend Developer skilled in css, javascript, react, html.",0.635396
+"Data Scientist skilled in sql, machine learning, statistics, python.","Data Scientist skilled in sql, python, machine learning, statistics.",0.863187
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","UX Designer skilled in user research, prototyping, figma, wireframing.",0.606391
+"Data Scientist skilled in machine learning, sql, statistics, python.","QA Engineer skilled in automation testing, test planning, selenium, python.",0.717383
+"Product Manager skilled in roadmap planning, data analysis, scrum, agile.","Frontend Developer skilled in react, javascript, html, css.",0.655898
+"Product Manager skilled in scrum, roadmap planning, data analysis, agile.","Full Stack Developer skilled in javascript, node.js, python, react.",0.551482
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","Frontend Developer skilled in javascript, css, html, react.",0.598816
+"Mobile App Developer skilled in kotlin, react native, android, swift.","Database Administrator skilled in backup, performance tuning, sql, oracle.",0.690852
+"AI Engineer skilled in tensorflow, nlp, python, deep learning.","Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.",0.846512
+"Network Engineer skilled in tcp/ip, routing, switching, firewalls.","Backend Developer skilled in rest api, sql, node.js, python.",0.60029
+"Business Analyst skilled in requirements gathering, sql, uml, data analysis.","Business Analyst skilled in uml, requirements gathering, data analysis, sql.",0.900922
+"Software Engineer skilled in c++, java, python, oop.","Data Engineer skilled in spark, etl, airflow, hadoop.",0.704414
+"AI Engineer skilled in nlp, python, tensorflow, deep learning.","IT Support Specialist skilled in troubleshooting, vpn, helpdesk, windows.",0.648527
+"Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.","Cybersecurity Analyst skilled in network security, python, linux, encryption.",0.604192
+"QA Engineer skilled in selenium, python, automation testing, test planning.","Software Engineer skilled in c++, java, python, oop.",0.76311
+"Full Stack Developer skilled in python, javascript, react, node.js.","Database Administrator skilled in oracle, backup, performance tuning, sql.",0.648034
+"Backend Developer skilled in python, sql, rest api, node.js.","AI Engineer skilled in python, deep learning, tensorflow, nlp.",0.696603
+"Software Engineer skilled in java, oop, c++, python.","AI Engineer skilled in tensorflow, python, deep learning, nlp.",0.731448
+"Backend Developer skilled in sql, rest api, python, node.js.","IT Support Specialist skilled in windows, troubleshooting, vpn, helpdesk.",0.572474
+"Backend Developer skilled in rest api, sql, node.js, python.","Cloud Engineer skilled in terraform, azure, cloud computing, aws.",0.646768
+"IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.","Database Administrator skilled in backup, sql, performance tuning, oracle.",0.629576
+"System Administrator skilled in vmware, networking, bash scripting, linux.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.633766
+"Mobile App Developer skilled in react native, kotlin, swift, android.","DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.",0.587091
+"Data Engineer skilled in etl, hadoop, spark, airflow.","Product Manager skilled in data analysis, roadmap planning, scrum, agile.",0.648
+"Product Manager skilled in data analysis, roadmap planning, agile, scrum.","Data Scientist skilled in python, machine learning, sql, statistics.",0.674842
+"Frontend Developer skilled in react, css, html, javascript.","Frontend Developer skilled in react, css, html, javascript.",0.986812
+"Cybersecurity Analyst skilled in network security, encryption, python, linux.","Cloud Engineer skilled in cloud computing, terraform, azure, aws.",0.555858
+"Business Analyst skilled in sql, requirements gathering, data analysis, uml.","UX Designer skilled in user research, figma, wireframing, prototyping.",0.655867
+"Backend Developer skilled in node.js, rest api, python, sql.","DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.",0.622047
+"Frontend Developer skilled in html, css, react, javascript.","Business Analyst skilled in sql, requirements gathering, data analysis, uml.",0.605973
+"Mobile App Developer skilled in android, swift, react native, kotlin.","Business Analyst skilled in sql, requirements gathering, data analysis, uml.",0.59702
+"Cloud Engineer skilled in cloud computing, azure, terraform, aws.","Data Engineer skilled in hadoop, etl, airflow, spark.",0.735067
+"DevOps Engineer skilled in docker, aws, kubernetes, ci/cd.","System Administrator skilled in linux, vmware, networking, bash scripting.",0.628179
+"UX Designer skilled in figma, prototyping, wireframing, user research.","Full Stack Developer skilled in javascript, node.js, react, python.",0.613325
+"Backend Developer skilled in sql, rest api, python, node.js.","Software Engineer skilled in python, c++, java, oop.",0.606093
+"Business Analyst skilled in uml, sql, data analysis, requirements gathering.","UX Designer skilled in wireframing, figma, user research, prototyping.",0.586387
+"IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.","AI Engineer skilled in deep learning, python, tensorflow, nlp.",0.616464
+"Data Scientist skilled in python, machine learning, statistics, sql.","IT Support Specialist skilled in windows, vpn, helpdesk, troubleshooting.",0.598567
+"Cloud Engineer skilled in aws, cloud computing, terraform, azure.","Cloud Engineer skilled in azure, aws, cloud computing, terraform.",0.781879
+"Business Analyst skilled in data analysis, sql, uml, requirements gathering.","Full Stack Developer skilled in javascript, python, react, node.js.",0.678865
+"AI Engineer skilled in tensorflow, nlp, deep learning, python.","Data Scientist skilled in machine learning, sql, python, statistics.",0.685154
+"System Administrator skilled in networking, linux, vmware, bash scripting.","Software Engineer skilled in c++, oop, python, java.",0.692868
+"Machine Learning Engineer skilled in tensorflow, pytorch, python, model deployment.","QA Engineer skilled in automation testing, python, selenium, test planning.",0.730915
+"Software Engineer skilled in c++, python, oop, java.","QA Engineer skilled in python, automation testing, test planning, selenium.",0.712892
+"Data Scientist skilled in sql, machine learning, statistics, python.","Frontend Developer skilled in react, javascript, css, html.",0.570577
+"Network Engineer skilled in firewalls, switching, routing, tcp/ip.","Software Engineer skilled in oop, python, java, c++.",0.675251
+"Frontend Developer skilled in css, javascript, react, html.","Business Analyst skilled in requirements gathering, data analysis, uml, sql.",0.67007
+"DevOps Engineer skilled in docker, kubernetes, aws, ci/cd.","DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.",0.763161
+"Data Scientist skilled in statistics, sql, python, machine learning.","Data Scientist skilled in machine learning, sql, statistics, python.",0.864277
+"Backend Developer skilled in rest api, sql, python, node.js.","AI Engineer skilled in python, nlp, tensorflow, deep learning.",0.714438
+"System Administrator skilled in vmware, linux, networking, bash scripting.","QA Engineer skilled in selenium, python, test planning, automation testing.",0.673052
+"Network Engineer skilled in firewalls, switching, tcp/ip, routing.","Business Analyst skilled in sql, uml, requirements gathering, data analysis.",0.596324
+"Data Engineer skilled in spark, airflow, etl, hadoop.","IT Support Specialist skilled in helpdesk, troubleshooting, vpn, windows.",0.553994
+"Cybersecurity Analyst skilled in linux, network security, python, encryption.","Software Engineer skilled in python, java, c++, oop.",0.707437
+"Full Stack Developer skilled in node.js, python, react, javascript.","Database Administrator skilled in oracle, sql, backup, performance tuning.",0.643871
+"Backend Developer skilled in sql, node.js, python, rest api.","Product Manager skilled in agile, scrum, data analysis, roadmap planning.",0.573177
+"IT Support Specialist skilled in helpdesk, troubleshooting, windows, vpn.","Backend Developer skilled in node.js, sql, python, rest api.",0.630961
+"Cloud Engineer skilled in azure, cloud computing, aws, terraform.","Cybersecurity Analyst skilled in network security, python, linux, encryption.",0.675567
+"Full Stack Developer skilled in node.js, react, python, javascript.","System Administrator skilled in networking, vmware, linux, bash scripting.",0.688679
+"Full Stack Developer skilled in python, javascript, node.js, react.","Cloud Engineer skilled in terraform, aws, cloud computing, azure.",0.670976
+"Machine Learning Engineer skilled in model deployment, tensorflow, python, pytorch.","Mobile App Developer skilled in swift, android, react native, kotlin.",0.561264
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","Business Analyst skilled in uml, data analysis, sql, requirements gathering.",0.880065
+"Software Engineer skilled in python, java, c++, oop.","Database Administrator skilled in sql, performance tuning, backup, oracle.",0.647171
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","System Administrator skilled in networking, linux, vmware, bash scripting.",0.642285
+"Backend Developer skilled in sql, rest api, python, node.js.","Software Engineer skilled in python, oop, c++, java.",0.640673
+"Mobile App Developer skilled in swift, kotlin, react native, android.","Frontend Developer skilled in react, css, html, javascript.",0.736866
+"Software Engineer skilled in python, oop, java, c++.","AI Engineer skilled in deep learning, tensorflow, nlp, python.",0.747027
+"System Administrator skilled in bash scripting, networking, linux, vmware.","Backend Developer skilled in node.js, sql, python, rest api.",0.611411
+"Network Engineer skilled in firewalls, switching, routing, tcp/ip.","Cybersecurity Analyst skilled in network security, linux, python, encryption.",0.665579
+"System Administrator skilled in bash scripting, linux, networking, vmware.","Cloud Engineer skilled in azure, terraform, aws, cloud computing.",0.583828
+"DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.","DevOps Engineer skilled in docker, ci/cd, aws, kubernetes.",0.896718
+"Backend Developer skilled in rest api, node.js, sql, python.","Mobile App Developer skilled in android, swift, react native, kotlin.",0.726003
+"Data Engineer skilled in hadoop, airflow, spark, etl.","Data Scientist skilled in machine learning, python, sql, statistics.",0.651048
+"Software Engineer skilled in java, c++, oop, python.","DevOps Engineer skilled in aws, docker, ci/cd, kubernetes.",0.626008
+"Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.","System Administrator skilled in bash scripting, networking, vmware, linux.",0.686079
+"System Administrator skilled in vmware, linux, networking, bash scripting.","Data Engineer skilled in airflow, etl, hadoop, spark.",0.665678
+"AI Engineer skilled in tensorflow, nlp, python, deep learning.","Data Scientist skilled in machine learning, python, statistics, sql.",0.738808
+"Cloud Engineer skilled in azure, cloud computing, aws, terraform.","Data Scientist skilled in python, sql, statistics, machine learning.",0.555835
+"Frontend Developer skilled in html, css, react, javascript.","Business Analyst skilled in sql, requirements gathering, uml, data analysis.",0.592178
+"System Administrator skilled in bash scripting, networking, vmware, linux.","Machine Learning Engineer skilled in tensorflow, pytorch, model deployment, python.",0.618903
+"DevOps Engineer skilled in docker, aws, kubernetes, ci/cd.","DevOps Engineer skilled in kubernetes, ci/cd, docker, aws.",0.866258
+"Data Scientist skilled in machine learning, sql, statistics, python.","Network Engineer skilled in routing, firewalls, switching, tcp/ip.",0.655337
+"AI Engineer skilled in python, nlp, tensorflow, deep learning.","Network Engineer skilled in firewalls, tcp/ip, switching, routing.",0.628212
+"DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.","Data Engineer skilled in etl, airflow, hadoop, spark.",0.681217
+"Data Scientist skilled in statistics, sql, machine learning, python.","Frontend Developer skilled in css, javascript, react, html.",0.603009
+"DevOps Engineer skilled in docker, aws, kubernetes, ci/cd.","IT Support Specialist skilled in windows, troubleshooting, helpdesk, vpn.",0.551999
+"Cloud Engineer skilled in terraform, azure, aws, cloud computing.","Database Administrator skilled in backup, performance tuning, sql, oracle.",0.588409
+"Mobile App Developer skilled in react native, swift, android, kotlin.","Software Engineer skilled in c++, java, python, oop.",0.684583
+"Mobile App Developer skilled in react native, swift, android, kotlin.","Mobile App Developer skilled in android, react native, swift, kotlin.",1.072219
+"Cybersecurity Analyst skilled in linux, network security, encryption, python.","Software Engineer skilled in java, oop, c++, python.",0.669009
+"IT Support Specialist skilled in vpn, helpdesk, windows, troubleshooting.","System Administrator skilled in bash scripting, vmware, networking, linux.",0.59577
+"IT Support Specialist skilled in helpdesk, troubleshooting, vpn, windows.","UX Designer skilled in prototyping, user research, wireframing, figma.",0.568842
+"Business Analyst skilled in requirements gathering, data analysis, sql, uml.","Data Engineer skilled in etl, hadoop, airflow, spark.",0.709383
+"System Administrator skilled in linux, networking, bash scripting, vmware.","Backend Developer skilled in python, node.js, sql, rest api.",0.554321
+"AI Engineer skilled in deep learning, python, nlp, tensorflow.","Product Manager skilled in scrum, agile, roadmap planning, data analysis.",0.576246
+"Database Administrator skilled in backup, sql, performance tuning, oracle.","Full Stack Developer skilled in node.js, react, javascript, python.",0.68644
+"Database Administrator skilled in performance tuning, sql, backup, oracle.","Cybersecurity Analyst skilled in linux, network security, encryption, python.",0.593819
+"Data Engineer skilled in etl, hadoop, airflow, spark.","UX Designer skilled in figma, wireframing, user research, prototyping.",0.655025
+"QA Engineer skilled in python, automation testing, selenium, test planning.","Database Administrator skilled in backup, oracle, sql, performance tuning.",0.668748
+"Business Analyst skilled in requirements gathering, data analysis, uml, sql.","Software Engineer skilled in oop, java, python, c++.",0.669313
+"Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.","Software Engineer skilled in oop, c++, python, java.",0.718058
+"Full Stack Developer skilled in node.js, react, python, javascript.","Product Manager skilled in agile, roadmap planning, scrum, data analysis.",0.604972
+"System Administrator skilled in bash scripting, networking, vmware, linux.","Full Stack Developer skilled in node.js, react, javascript, python.",0.638591
+"Frontend Developer skilled in react, html, css, javascript.","Cybersecurity Analyst skilled in network security, encryption, linux, python.",0.67388
+"AI Engineer skilled in nlp, deep learning, tensorflow, python.","Backend Developer skilled in node.js, sql, python, rest api.",0.596744
+"Network Engineer skilled in tcp/ip, switching, routing, firewalls.","DevOps Engineer skilled in kubernetes, ci/cd, docker, aws.",0.606532
+"UX Designer skilled in prototyping, wireframing, figma, user research.","Data Engineer skilled in spark, etl, hadoop, airflow.",0.662943
+"Database Administrator skilled in backup, oracle, sql, performance tuning.","Frontend Developer skilled in javascript, html, css, react.",0.669737
+"QA Engineer skilled in python, selenium, automation testing, test planning.","QA Engineer skilled in test planning, automation testing, selenium, python.",0.859678
+"Network Engineer skilled in firewalls, switching, routing, tcp/ip.","Cloud Engineer skilled in aws, terraform, cloud computing, azure.",0.740727
+"Cybersecurity Analyst skilled in linux, encryption, python, network security.","IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.",0.698713
+"Database Administrator skilled in backup, oracle, sql, performance tuning.","QA Engineer skilled in selenium, automation testing, test planning, python.",0.612717
+"Software Engineer skilled in oop, c++, java, python.","Data Scientist skilled in machine learning, sql, python, statistics.",0.679936
+"Product Manager skilled in data analysis, roadmap planning, scrum, agile.","Cybersecurity Analyst skilled in encryption, linux, python, network security.",0.605974
+"Software Engineer skilled in c++, java, oop, python.","System Administrator skilled in networking, bash scripting, linux, vmware.",0.566405
+"Full Stack Developer skilled in javascript, react, node.js, python.","System Administrator skilled in vmware, linux, networking, bash scripting.",0.691619
+"Data Scientist skilled in statistics, machine learning, sql, python.","Frontend Developer skilled in javascript, html, react, css.",0.622673
+"Data Engineer skilled in airflow, spark, hadoop, etl.","DevOps Engineer skilled in aws, kubernetes, ci/cd, docker.",0.742385
+"Machine Learning Engineer skilled in pytorch, model deployment, tensorflow, python.","IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.",0.6314
+"Data Engineer skilled in spark, etl, airflow, hadoop.","Mobile App Developer skilled in swift, android, react native, kotlin.",0.647602
+"System Administrator skilled in bash scripting, linux, vmware, networking.","IT Support Specialist skilled in troubleshooting, helpdesk, vpn, windows.",0.608884
+"Cloud Engineer skilled in cloud computing, terraform, aws, azure.","Software Engineer skilled in java, oop, python, c++.",0.706622
+"System Administrator skilled in networking, vmware, linux, bash scripting.","Mobile App Developer skilled in swift, kotlin, react native, android.",0.6347
+"Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.","Cloud Engineer skilled in aws, azure, cloud computing, terraform.",0.740681
+"Business Analyst skilled in uml, data analysis, requirements gathering, sql.","QA Engineer skilled in selenium, test planning, python, automation testing.",0.62044
+"Cybersecurity Analyst skilled in linux, network security, python, encryption.","Mobile App Developer skilled in react native, swift, kotlin, android.",0.658952
+"Machine Learning Engineer skilled in python, pytorch, model deployment, tensorflow.","QA Engineer skilled in test planning, selenium, automation testing, python.",0.636648
+"Cybersecurity Analyst skilled in encryption, network security, python, linux.","Business Analyst skilled in sql, requirements gathering, data analysis, uml.",0.620416
+"Backend Developer skilled in node.js, sql, rest api, python.","IT Support Specialist skilled in windows, helpdesk, vpn, troubleshooting.",0.661625
+"Product Manager skilled in scrum, agile, data analysis, roadmap planning.","Software Engineer skilled in c++, java, oop, python.",0.657366
+"Mobile App Developer skilled in kotlin, android, react native, swift.","Mobile App Developer skilled in swift, react native, android, kotlin.",0.914987
+"UX Designer skilled in user research, wireframing, figma, prototyping.","Data Scientist skilled in statistics, python, machine learning, sql.",0.670175
+"Backend Developer skilled in python, sql, node.js, rest api.","System Administrator skilled in bash scripting, linux, networking, vmware.",0.597676
+"Software Engineer skilled in oop, java, python, c++.","Backend Developer skilled in node.js, python, sql, rest api.",0.654672
+"Data Scientist skilled in sql, python, statistics, machine learning.","Backend Developer skilled in node.js, python, rest api, sql.",0.669
+"Business Analyst skilled in data analysis, requirements gathering, sql, uml.","Business Analyst skilled in sql, data analysis, uml, requirements gathering.",0.952745
+"Cybersecurity Analyst skilled in encryption, linux, network security, python.","Database Administrator skilled in sql, oracle, performance tuning, backup.",0.593734
+"IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.","System Administrator skilled in vmware, linux, networking, bash scripting.",0.675321
+"System Administrator skilled in bash scripting, vmware, networking, linux.","Backend Developer skilled in python, rest api, node.js, sql.",0.63455
+"Cloud Engineer skilled in aws, azure, cloud computing, terraform.","QA Engineer skilled in python, test planning, automation testing, selenium.",0.734997
+"QA Engineer skilled in test planning, python, automation testing, selenium.","QA Engineer skilled in selenium, python, test planning, automation testing.",0.900188
+"Product Manager skilled in roadmap planning, scrum, data analysis, agile.","Product Manager skilled in roadmap planning, agile, scrum, data analysis.",0.999465
+"Network Engineer skilled in tcp/ip, routing, switching, firewalls.","Cybersecurity Analyst skilled in python, network security, encryption, linux.",0.625667
+"Data Scientist skilled in python, statistics, sql, machine learning.","Mobile App Developer skilled in kotlin, swift, react native, android.",0.654123
+"Frontend Developer skilled in javascript, html, css, react.","System Administrator skilled in vmware, bash scripting, linux, networking.",0.667732
+"Business Analyst skilled in sql, requirements gathering, data analysis, uml.","Network Engineer skilled in routing, firewalls, switching, tcp/ip.",0.67558
+"Frontend Developer skilled in css, react, javascript, html.","IT Support Specialist skilled in vpn, windows, troubleshooting, helpdesk.",0.630071
+"QA Engineer skilled in python, automation testing, test planning, selenium.","IT Support Specialist skilled in windows, vpn, troubleshooting, helpdesk.",0.660777
+"AI Engineer skilled in nlp, deep learning, python, tensorflow.","QA Engineer skilled in python, automation testing, test planning, selenium.",0.770019
+"Backend Developer skilled in rest api, python, sql, node.js.","Cybersecurity Analyst skilled in linux, encryption, network security, python.",0.699984
+"Software Engineer skilled in c++, python, java, oop.","Cloud Engineer skilled in terraform, azure, aws, cloud computing.",0.604651
+"UX Designer skilled in wireframing, prototyping, user research, figma.","Network Engineer skilled in routing, firewalls, tcp/ip, switching.",0.695604
+"Cloud Engineer skilled in aws, azure, cloud computing, terraform.","Network Engineer skilled in tcp/ip, routing, switching, firewalls.",0.718634
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.",0.60875
+"Cybersecurity Analyst skilled in linux, encryption, network security, python.","Software Engineer skilled in java, python, oop, c++.",0.659139
+"Cloud Engineer skilled in azure, aws, cloud computing, terraform.","UX Designer skilled in wireframing, figma, user research, prototyping.",0.582264
+"Machine Learning Engineer skilled in model deployment, python, pytorch, tensorflow.","Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.",0.956983
+"UX Designer skilled in prototyping, wireframing, user research, figma.","IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.",0.56092
+"Full Stack Developer skilled in react, python, node.js, javascript.","Business Analyst skilled in data analysis, requirements gathering, sql, uml.",0.573113
+"Frontend Developer skilled in javascript, css, react, html.","System Administrator skilled in bash scripting, linux, vmware, networking.",0.681518
+"System Administrator skilled in vmware, linux, bash scripting, networking.","Network Engineer skilled in switching, tcp/ip, routing, firewalls.",0.583426
+"IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.","Frontend Developer skilled in css, react, html, javascript.",0.599559
+"DevOps Engineer skilled in kubernetes, docker, aws, ci/cd.","QA Engineer skilled in automation testing, python, selenium, test planning.",0.603185
+"QA Engineer skilled in python, automation testing, selenium, test planning.","Database Administrator skilled in performance tuning, oracle, backup, sql.",0.657202
+"Full Stack Developer skilled in javascript, node.js, react, python.","Software Engineer skilled in java, oop, c++, python.",0.640658
+"DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.","Network Engineer skilled in switching, firewalls, tcp/ip, routing.",0.734342
+"Cybersecurity Analyst skilled in python, linux, network security, encryption.","Database Administrator skilled in oracle, backup, performance tuning, sql.",0.558722
+"System Administrator skilled in linux, networking, bash scripting, vmware.","Frontend Developer skilled in javascript, html, css, react.",0.699446
+"Business Analyst skilled in sql, requirements gathering, data analysis, uml.","Business Analyst skilled in uml, requirements gathering, sql, data analysis.",0.896836
+"Cybersecurity Analyst skilled in network security, encryption, python, linux.","UX Designer skilled in prototyping, figma, user research, wireframing.",0.568615
+"Business Analyst skilled in data analysis, sql, requirements gathering, uml.","Backend Developer skilled in rest api, node.js, sql, python.",0.699088
+"Mobile App Developer skilled in react native, kotlin, android, swift.","Frontend Developer skilled in javascript, react, css, html.",0.606035
+"Software Engineer skilled in python, oop, c++, java.","Mobile App Developer skilled in swift, kotlin, react native, android.",0.551488
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","IT Support Specialist skilled in windows, helpdesk, troubleshooting, vpn.",0.698576
+"Data Scientist skilled in python, statistics, machine learning, sql.","Product Manager skilled in agile, data analysis, scrum, roadmap planning.",0.73804
+"Data Scientist skilled in sql, python, machine learning, statistics.","Software Engineer skilled in c++, oop, java, python.",0.603364
+"Full Stack Developer skilled in javascript, react, node.js, python.","System Administrator skilled in linux, networking, bash scripting, vmware.",0.6604
+"Full Stack Developer skilled in react, javascript, node.js, python.","IT Support Specialist skilled in vpn, troubleshooting, helpdesk, windows.",0.655923
+"Frontend Developer skilled in html, css, javascript, react.","Full Stack Developer skilled in python, node.js, javascript, react.",0.834515
+"Data Scientist skilled in sql, machine learning, python, statistics.","DevOps Engineer skilled in docker, kubernetes, ci/cd, aws.",0.638883
+"QA Engineer skilled in selenium, automation testing, test planning, python.","Full Stack Developer skilled in node.js, python, javascript, react.",0.697779
+"DevOps Engineer skilled in ci/cd, aws, docker, kubernetes.","Data Engineer skilled in hadoop, airflow, etl, spark.",0.627232
+"Software Engineer skilled in java, python, oop, c++.","Database Administrator skilled in sql, oracle, backup, performance tuning.",0.661251
+"Frontend Developer skilled in css, html, react, javascript.","Data Scientist skilled in machine learning, statistics, sql, python.",0.559683
+"Software Engineer skilled in java, c++, oop, python.","IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.",0.665229
+"Cloud Engineer skilled in aws, azure, terraform, cloud computing.","Network Engineer skilled in firewalls, routing, switching, tcp/ip.",0.695237
+"System Administrator skilled in bash scripting, vmware, networking, linux.","Cloud Engineer skilled in cloud computing, aws, terraform, azure.",0.556869
+"Cybersecurity Analyst skilled in python, linux, encryption, network security.","Business Analyst skilled in requirements gathering, sql, data analysis, uml.",0.686311
+"Frontend Developer skilled in html, css, javascript, react.","Mobile App Developer skilled in swift, android, react native, kotlin.",0.677311
+"Mobile App Developer skilled in swift, android, react native, kotlin.","IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.",0.566271
+"System Administrator skilled in linux, vmware, bash scripting, networking.","Network Engineer skilled in routing, switching, tcp/ip, firewalls.",0.614554
+"Business Analyst skilled in sql, uml, requirements gathering, data analysis.","Database Administrator skilled in oracle, backup, sql, performance tuning.",0.658516
+"Software Engineer skilled in c++, python, java, oop.","IT Support Specialist skilled in troubleshooting, windows, helpdesk, vpn.",0.574887
+"Frontend Developer skilled in react, javascript, css, html.","Mobile App Developer skilled in kotlin, react native, android, swift.",0.646221
+"Full Stack Developer skilled in node.js, react, python, javascript.","Product Manager skilled in roadmap planning, agile, scrum, data analysis.",0.666762
+"Backend Developer skilled in rest api, python, sql, node.js.","System Administrator skilled in bash scripting, linux, vmware, networking.",0.650917
+"Full Stack Developer skilled in node.js, python, react, javascript.","Full Stack Developer skilled in node.js, react, javascript, python.",0.901091
+"Product Manager skilled in roadmap planning, data analysis, agile, scrum.","UX Designer skilled in figma, prototyping, user research, wireframing.",0.590999
+"Backend Developer skilled in python, rest api, sql, node.js.","Frontend Developer skilled in html, react, javascript, css.",0.70096
+"Data Scientist skilled in sql, statistics, machine learning, python.","Data Engineer skilled in hadoop, spark, etl, airflow.",0.716223
+"Data Engineer skilled in etl, hadoop, airflow, spark.","UX Designer skilled in prototyping, wireframing, figma, user research.",0.689459
+"Backend Developer skilled in python, rest api, node.js, sql.","Machine Learning Engineer skilled in pytorch, python, tensorflow, model deployment.",0.729742
+"Business Analyst skilled in uml, sql, requirements gathering, data analysis.","Full Stack Developer skilled in javascript, react, node.js, python.",0.556371
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","DevOps Engineer skilled in ci/cd, kubernetes, aws, docker.",0.586315
+"Cloud Engineer skilled in terraform, azure, cloud computing, aws.","Data Engineer skilled in spark, etl, airflow, hadoop.",0.708878
+"Cybersecurity Analyst skilled in encryption, python, network security, linux.","QA Engineer skilled in selenium, python, automation testing, test planning.",0.601689
+"Product Manager skilled in agile, scrum, data analysis, roadmap planning.","Business Analyst skilled in sql, uml, data analysis, requirements gathering.",0.759948
+"Business Analyst skilled in data analysis, requirements gathering, sql, uml.","AI Engineer skilled in nlp, python, tensorflow, deep learning.",0.632828
+"QA Engineer skilled in python, automation testing, test planning, selenium.","Business Analyst skilled in data analysis, requirements gathering, sql, uml.",0.69831
+"IT Support Specialist skilled in troubleshooting, vpn, windows, helpdesk.","System Administrator skilled in networking, bash scripting, linux, vmware.",0.626379
+"Network Engineer skilled in routing, switching, firewalls, tcp/ip.","Machine Learning Engineer skilled in pytorch, python, model deployment, tensorflow.",0.652642
+"Database Administrator skilled in oracle, sql, performance tuning, backup.","Software Engineer skilled in python, c++, java, oop.",0.611538
+"Data Scientist skilled in machine learning, python, sql, statistics.","Full Stack Developer skilled in javascript, react, python, node.js.",0.727472
+"Mobile App Developer skilled in kotlin, react native, swift, android.","Machine Learning Engineer skilled in model deployment, python, tensorflow, pytorch.",0.656015
+"Mobile App Developer skilled in kotlin, react native, android, swift.","Frontend Developer skilled in html, css, javascript, react.",0.62274
+"DevOps Engineer skilled in docker, kubernetes, aws, ci/cd.","Network Engineer skilled in firewalls, switching, tcp/ip, routing.",0.721401
+"Cloud Engineer skilled in aws, terraform, cloud computing, azure.","Product Manager skilled in roadmap planning, agile, data analysis, scrum.",0.671376
+"Full Stack Developer skilled in react, javascript, node.js, python.","Cloud Engineer skilled in terraform, azure, cloud computing, aws.",0.694464
+"Full Stack Developer skilled in node.js, react, javascript, python.","Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.",0.604075
+"Mobile App Developer skilled in android, react native, swift, kotlin.","Full Stack Developer skilled in javascript, node.js, react, python.",0.741219
+"Cloud Engineer skilled in azure, terraform, aws, cloud computing.","AI Engineer skilled in python, nlp, tensorflow, deep learning.",0.664548
+"Data Engineer skilled in etl, airflow, hadoop, spark.","QA Engineer skilled in python, selenium, test planning, automation testing.",0.701574
+"Backend Developer skilled in python, rest api, sql, node.js.","Software Engineer skilled in oop, c++, java, python.",0.563039
+"System Administrator skilled in linux, vmware, bash scripting, networking.","Cybersecurity Analyst skilled in network security, encryption, linux, python.",0.710877
+"Machine Learning Engineer skilled in model deployment, pytorch, python, tensorflow.","Cloud Engineer skilled in aws, terraform, cloud computing, azure.",0.685875
+"IT Support Specialist skilled in helpdesk, troubleshooting, vpn, windows.","System Administrator skilled in bash scripting, linux, vmware, networking.",0.566761
+"Machine Learning Engineer skilled in python, tensorflow, pytorch, model deployment.","IT Support Specialist skilled in helpdesk, vpn, windows, troubleshooting.",0.64705
+"Cloud Engineer skilled in terraform, azure, cloud computing, aws.","Product Manager skilled in roadmap planning, agile, scrum, data analysis.",0.667764
+"Data Scientist skilled in sql, statistics, python, machine learning.","UX Designer skilled in figma, wireframing, user research, prototyping.",0.564392
+"Product Manager skilled in agile, roadmap planning, data analysis, scrum.","Database Administrator skilled in performance tuning, sql, oracle, backup.",0.636921
+"Cloud Engineer skilled in cloud computing, aws, terraform, azure.","Machine Learning Engineer skilled in tensorflow, model deployment, pytorch, python.",0.723115
+"Full Stack Developer skilled in javascript, python, node.js, react.","Database Administrator skilled in oracle, sql, backup, performance tuning.",0.618125
+"Frontend Developer skilled in css, javascript, html, react.","Backend Developer skilled in sql, node.js, rest api, python.",0.657091
+"Data Engineer skilled in spark, airflow, hadoop, etl.","IT Support Specialist skilled in troubleshooting, vpn, helpdesk, windows.",0.564571
+"Database Administrator skilled in oracle, performance tuning, backup, sql.","Cloud Engineer skilled in terraform, aws, cloud computing, azure.",0.566796
+"AI Engineer skilled in tensorflow, python, deep learning, nlp.","Database Administrator skilled in oracle, sql, backup, performance tuning.",0.64914
+"Frontend Developer skilled in html, css, react, javascript.","UX Designer skilled in prototyping, figma, user research, wireframing.",0.579263
+"Cybersecurity Analyst skilled in network security, encryption, python, linux.","Data Scientist skilled in sql, machine learning, python, statistics.",0.603532
+"DevOps Engineer skilled in aws, ci/cd, kubernetes, docker.","UX Designer skilled in user research, prototyping, figma, wireframing.",0.686814
+"Backend Developer skilled in node.js, python, sql, rest api.","Data Scientist skilled in statistics, machine learning, python, sql.",0.646897
+"Network Engineer skilled in firewalls, routing, switching, tcp/ip.","DevOps Engineer skilled in ci/cd, kubernetes, aws, docker.",0.702826
+"Business Analyst skilled in data analysis, sql, requirements gathering, uml.","Database Administrator skilled in performance tuning, sql, backup, oracle.",0.676807
+"Software Engineer skilled in oop, java, c++, python.","UX Designer skilled in wireframing, figma, user research, prototyping.",0.686809
+"AI Engineer skilled in nlp, tensorflow, deep learning, python.","Data Scientist skilled in sql, statistics, machine learning, python.",0.750852
+"Software Engineer skilled in c++, java, oop, python.","Cloud Engineer skilled in aws, azure, terraform, cloud computing.",0.638313
+"IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.","Machine Learning Engineer skilled in pytorch, python, tensorflow, model deployment.",0.681185
+"Data Engineer skilled in etl, hadoop, spark, airflow.","Full Stack Developer skilled in react, python, javascript, node.js.",0.604156
+"Mobile App Developer skilled in react native, swift, kotlin, android.","Database Administrator skilled in performance tuning, oracle, sql, backup.",0.66515
+"Database Administrator skilled in backup, performance tuning, oracle, sql.","DevOps Engineer skilled in ci/cd, docker, aws, kubernetes.",0.651993
+"Cybersecurity Analyst skilled in python, network security, encryption, linux.","AI Engineer skilled in python, tensorflow, nlp, deep learning.",0.631632
+"Mobile App Developer skilled in swift, react native, android, kotlin.","Data Engineer skilled in airflow, spark, hadoop, etl.",0.643462
+"Data Engineer skilled in hadoop, etl, airflow, spark.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.618673
+"Network Engineer skilled in tcp/ip, routing, switching, firewalls.","DevOps Engineer skilled in docker, aws, ci/cd, kubernetes.",0.605789
+"Software Engineer skilled in java, python, c++, oop.","Full Stack Developer skilled in python, javascript, react, node.js.",0.611669
+"Cloud Engineer skilled in cloud computing, azure, aws, terraform.","System Administrator skilled in vmware, bash scripting, networking, linux.",0.571088
+"Product Manager skilled in agile, scrum, roadmap planning, data analysis.","Software Engineer skilled in oop, java, python, c++.",0.660169
+"Database Administrator skilled in backup, sql, oracle, performance tuning.","AI Engineer skilled in python, tensorflow, deep learning, nlp.",0.566784
+"AI Engineer skilled in tensorflow, deep learning, python, nlp.","Cloud Engineer skilled in cloud computing, aws, terraform, azure.",0.701213
+"AI Engineer skilled in python, deep learning, nlp, tensorflow.","Full Stack Developer skilled in react, python, node.js, javascript.",0.726754
+"Product Manager skilled in data analysis, agile, scrum, roadmap planning.","DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.",0.633587
+"Mobile App Developer skilled in react native, kotlin, swift, android.","Cloud Engineer skilled in terraform, cloud computing, aws, azure.",0.678975
+"UX Designer skilled in figma, prototyping, user research, wireframing.","Cloud Engineer skilled in azure, cloud computing, terraform, aws.",0.550516
+"Full Stack Developer skilled in react, javascript, node.js, python.","Product Manager skilled in agile, data analysis, scrum, roadmap planning.",0.592954
+"Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.","Data Scientist skilled in python, machine learning, sql, statistics.",0.688208
+"Backend Developer skilled in python, rest api, node.js, sql.","IT Support Specialist skilled in helpdesk, vpn, troubleshooting, windows.",0.566255
+"Machine Learning Engineer skilled in python, model deployment, tensorflow, pytorch.","Software Engineer skilled in python, c++, java, oop.",0.783143
+"Software Engineer skilled in oop, python, java, c++.","QA Engineer skilled in python, automation testing, selenium, test planning.",0.729195
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","Product Manager skilled in data analysis, scrum, agile, roadmap planning.",0.883489
+"Data Scientist skilled in python, sql, statistics, machine learning.","Database Administrator skilled in sql, backup, oracle, performance tuning.",0.730312
+"DevOps Engineer skilled in aws, kubernetes, ci/cd, docker.","Network Engineer skilled in switching, firewalls, routing, tcp/ip.",0.690667
+"Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.","AI Engineer skilled in python, deep learning, tensorflow, nlp.",0.674333
+"Software Engineer skilled in c++, oop, python, java.","DevOps Engineer skilled in ci/cd, kubernetes, docker, aws.",0.673388
+"Product Manager skilled in scrum, agile, roadmap planning, data analysis.","Data Engineer skilled in hadoop, spark, etl, airflow.",0.655501
+"Backend Developer skilled in sql, python, node.js, rest api.","Product Manager skilled in data analysis, agile, scrum, roadmap planning.",0.568717
+"Database Administrator skilled in oracle, performance tuning, sql, backup.","Machine Learning Engineer skilled in model deployment, tensorflow, pytorch, python.",0.601284
+"DevOps Engineer skilled in kubernetes, aws, docker, ci/cd.","DevOps Engineer skilled in docker, ci/cd, aws, kubernetes.",0.762862
+"Cybersecurity Analyst skilled in encryption, linux, network security, python.","Business Analyst skilled in requirements gathering, uml, sql, data analysis.",0.644288
+"Network Engineer skilled in firewalls, switching, tcp/ip, routing.","Mobile App Developer skilled in kotlin, swift, android, react native.",0.609461
+"System Administrator skilled in bash scripting, vmware, linux, networking.","Full Stack Developer skilled in react, javascript, python, node.js.",0.568472
+"Machine Learning Engineer skilled in python, tensorflow, pytorch, model deployment.","IT Support Specialist skilled in vpn, troubleshooting, windows, helpdesk.",0.630729
+"DevOps Engineer skilled in ci/cd, kubernetes, docker, aws.","Data Scientist skilled in statistics, machine learning, sql, python.",0.565235
+"Data Engineer skilled in etl, hadoop, spark, airflow.","Database Administrator skilled in oracle, sql, performance tuning, backup.",0.687515
+"Business Analyst skilled in requirements gathering, sql, data analysis, uml.","Frontend Developer skilled in html, javascript, css, react.",0.588909
+"Data Engineer skilled in airflow, etl, hadoop, spark.","Full Stack Developer skilled in javascript, node.js, react, python.",0.645014
+"Full Stack Developer skilled in python, node.js, react, javascript.","Backend Developer skilled in rest api, node.js, sql, python.",0.685905
+"DevOps Engineer skilled in kubernetes, aws, ci/cd, docker.","Database Administrator skilled in oracle, performance tuning, sql, backup.",0.633289
+"Machine Learning Engineer skilled in pytorch, tensorflow, python, model deployment.","Business Analyst skilled in sql, uml, requirements gathering, data analysis.",0.666405
+"Cybersecurity Analyst skilled in encryption, python, linux, network security.","UX Designer skilled in user research, figma, wireframing, prototyping.",0.572576
+"QA Engineer skilled in automation testing, test planning, selenium, python.","Cybersecurity Analyst skilled in linux, network security, encryption, python.",0.684193
+"Frontend Developer skilled in css, javascript, react, html.","Cloud Engineer skilled in azure, terraform, cloud computing, aws.",0.671907
+"Software Engineer skilled in java, c++, python, oop.","Machine Learning Engineer skilled in model deployment, pytorch, tensorflow, python.",0.625567
+"DevOps Engineer skilled in docker, kubernetes, aws, ci/cd.","Mobile App Developer skilled in android, swift, kotlin, react native.",0.590146
+"UX Designer skilled in user research, figma, prototyping, wireframing.","Network Engineer skilled in routing, firewalls, switching, tcp/ip.",0.674153
+"Product Manager skilled in roadmap planning, scrum, agile, data analysis.","Cloud Engineer skilled in azure, terraform, cloud computing, aws.",0.595383
+"DevOps Engineer skilled in ci/cd, docker, kubernetes, aws.","System Administrator skilled in vmware, linux, networking, bash scripting.",0.660882
+"UX Designer skilled in prototyping, user research, wireframing, figma.","Machine Learning Engineer skilled in pytorch, tensorflow, model deployment, python.",0.583103
+"Cloud Engineer skilled in terraform, aws, azure, cloud computing.","Cloud Engineer skilled in aws, terraform, azure, cloud computing.",0.93983
+"Business Analyst skilled in sql, uml, requirements gathering, data analysis.","Product Manager skilled in roadmap planning, agile, data analysis, scrum.",0.66001
+"System Administrator skilled in linux, vmware, bash scripting, networking.","UX Designer skilled in prototyping, wireframing, user research, figma.",0.662885
+"Database Administrator skilled in performance tuning, oracle, sql, backup.","Backend Developer skilled in rest api, sql, python, node.js.",0.609065
+"Data Engineer skilled in airflow, spark, etl, hadoop.","Data Engineer skilled in etl, hadoop, spark, airflow.",0.843692
+"AI Engineer skilled in deep learning, python, nlp, tensorflow.","Data Engineer skilled in etl, airflow, spark, hadoop.",0.646308
+"Backend Developer skilled in sql, python, node.js, rest api.","Cloud Engineer skilled in terraform, azure, aws, cloud computing.",0.588665
+"AI Engineer skilled in deep learning, tensorflow, nlp, python.","Business Analyst skilled in data analysis, requirements gathering, uml, sql.",0.65257
+"DevOps Engineer skilled in kubernetes, docker, ci/cd, aws.","AI Engineer skilled in nlp, deep learning, python, tensorflow.",0.737328
+"Data Engineer skilled in spark, hadoop, airflow, etl.","System Administrator skilled in linux, vmware, bash scripting, networking.",0.576938
+"Cloud Engineer skilled in azure, aws, terraform, cloud computing.","Full Stack Developer skilled in javascript, python, node.js, react.",0.616856
+"Frontend Developer skilled in html, react, css, javascript.","QA Engineer skilled in selenium, test planning, automation testing, python.",0.676446
+"Database Administrator skilled in sql, oracle, backup, performance tuning.","Machine Learning Engineer skilled in pytorch, model deployment, python, tensorflow.",0.657063
+"Data Scientist skilled in python, machine learning, statistics, sql.","Product Manager skilled in data analysis, agile, roadmap planning, scrum.",0.715015
+"QA Engineer skilled in selenium, test planning, python, automation testing.","Frontend Developer skilled in javascript, react, css, html.",0.603354
+"IT Support Specialist skilled in troubleshooting, vpn, helpdesk, windows.","Network Engineer skilled in routing, switching, firewalls, tcp/ip.",0.554677
+"Data Scientist skilled in statistics, sql, python, machine learning.","QA Engineer skilled in python, test planning, automation testing, selenium.",0.668672
+"Data Engineer skilled in etl, spark, hadoop, airflow.","Backend Developer skilled in rest api, node.js, sql, python.",0.552716
+"UX Designer skilled in user research, figma, wireframing, prototyping.","Backend Developer skilled in sql, node.js, rest api, python.",0.619505
+"UX Designer skilled in wireframing, figma, user research, prototyping.","Cloud Engineer skilled in azure, cloud computing, aws, terraform.",0.655405
+"System Administrator skilled in networking, vmware, linux, bash scripting.","IT Support Specialist skilled in troubleshooting, windows, vpn, helpdesk.",0.694648
+"Product Manager skilled in agile, data analysis, roadmap planning, scrum.","Database Administrator skilled in backup, sql, oracle, performance tuning.",0.585531
+"System Administrator skilled in linux, vmware, networking, bash scripting.","Full Stack Developer skilled in javascript, python, node.js, react.",0.67351
+"Data Scientist skilled in python, sql, statistics, machine learning.","Data Scientist skilled in python, sql, machine learning, statistics.",0.902753
+"DevOps Engineer skilled in ci/cd, kubernetes, docker, aws.","Data Scientist skilled in machine learning, python, statistics, sql.",0.596504
+"UX Designer skilled in user research, prototyping, wireframing, figma.","Business Analyst skilled in requirements gathering, data analysis, sql, uml.",0.674967
+"QA Engineer skilled in automation testing, selenium, python, test planning.","Cloud Engineer skilled in azure, terraform, cloud computing, aws.",0.718611
+"IT Support Specialist skilled in vpn, helpdesk, troubleshooting, windows.","QA Engineer skilled in python, test planning, selenium, automation testing.",0.667637
+"Data Scientist skilled in statistics, machine learning, sql, python.","Mobile App Developer skilled in android, react native, swift, kotlin.",0.677981
+"Machine Learning Engineer skilled in tensorflow, python, pytorch, model deployment.","Cybersecurity Analyst skilled in linux, python, network security, encryption.",0.618418
+"Mobile App Developer skilled in swift, react native, kotlin, android.","AI Engineer skilled in python, tensorflow, deep learning, nlp.",0.609139
+"Product Manager skilled in scrum, roadmap planning, agile, data analysis.","Mobile App Developer skilled in kotlin, react native, swift, android.",0.685813
+"DevOps Engineer skilled in docker, aws, ci/cd, kubernetes.","Backend Developer skilled in rest api, node.js, sql, python.",0.636416
+"Database Administrator skilled in performance tuning, oracle, sql, backup.","Frontend Developer skilled in html, css, javascript, react.",0.597921
+"DevOps Engineer skilled in kubernetes, aws, ci/cd, docker.","Software Engineer skilled in python, oop, c++, java.",0.611019
+"Data Scientist skilled in sql, machine learning, python, statistics.","Network Engineer skilled in routing, firewalls, switching, tcp/ip.",0.661373
